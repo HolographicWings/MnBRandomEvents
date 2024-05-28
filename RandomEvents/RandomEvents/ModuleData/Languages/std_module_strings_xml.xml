@@ -817,146 +817,146 @@
     ******************************************************************************
     -->
 
-    <string id="FleeingFate_Skill_Check_Disable_Appended_Text" text="**Les tests de compétence sont désactivés**"/>
-    <string id="FleeingFate_Roguery_Appended_Text" text="[Intendance - niveau {minStewardLevel}]"/>
-    <string id="FleeingFate_Roguery_Appended_Text" text="[Banditisme - niveau {minRogueryLevel}]"/>
-    <string id="FleeingFate_Event_Option_1" text="L'aider"/>
-    <string id="FleeingFate_Event_Option_1_Hover" text="Essayez de l'aider à quitter la ville."/>
-    <string id="FleeingFate_Event_Option_2" text="La convaincre"/>
-    <string id="FleeingFate_Event_Option_2_Hover" text="Rappelez-lui son devoir en tant que noble."/>
-    <string id="FleeingFate_Event_Option_3" text="Des mots de sagesse"/>
-    <string id="FleeingFate_Event_Option_3_Hover" text="Essayez de la faire choisir par elle-même."/>
-    <string id="FleeingFate_Event_Option_4" text="[Intendance] Négocier"/>
-    <string id="FleeingFate_Event_Option_4_Hover" text="Essayez de parler à sa famille.\n{stewardAppendedText}"/>
-    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La battre"/>
-    <string id="FleeingFate_Event_Option_5_Hover" text="Assurez-vous qu'elle comprenne le message.\n{rogueryAppendedText}"/>
-    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La tuer"/>
-    <string id="FleeingFate_Event_Option_5_Hover" text="Un problème de moins.\n{rogueryAppendedText}"/>
-    <string id="FleeingFate_Event_Button_Text_1" text="Choisir"/>
-    <string id="FleeingFate_Event_Button_Text_2" text="Terminé"/>
-    <string id="FleeingFate_Title_A" text="Fuir le Destin"/>
-    <string id="FleeingFate_Title_B" text="Évasion de l'Esclavage"/>
-    <string id="FleeingFate_Title_C" text="La Mariée Réticente"/>
-    <string id="FleeingFate_Title_D" text="Dilemme Noble"/>
-    <string id="FleeingFate_Title_E" text="Liée par le Devoir"/>
-    <string id="FleeingFate_Title_F" text="Un Cri de Liberté"/>
-    <string id="FleeingFate_Title_G" text="Briser les Chaînes"/>
-    <string id="FleeingFate_Title_H" text="Contre les Fiançailles"/>
-    <string id="FleeingFate_Noblewoman_Name_A" text="Dame Cyrenia"/>
-    <string id="FleeingFate_Noblewoman_Name_B" text="Dame Elithina"/>
-    <string id="FleeingFate_Noblewoman_Name_C" text="Dame Galereth"/>
-    <string id="FleeingFate_Noblewoman_Name_D" text="Dame Ysmera"/>
-    <string id="FleeingFate_Noblewoman_Name_E" text="Dame Thalica"/>
-    <string id="FleeingFate_Noblewoman_Name_F" text="Dame Venalia"/>
-    <string id="FleeingFate_Noblewoman_Name_G" text="Dame Rhydena"/>
-    <string id="FleeingFate_Noblewoman_Name_H" text="Dame Esmereth"/>
-    <string id="FleeingFate_Noblewoman_Name_I" text="Dame Lythania"/>
-    <string id="FleeingFate_Noblewoman_Name_J" text="Dame Saralia"/>
-    <string id="FleeingFate_Event_Desc_A" text="À la lumière tamisée du soir, {noblewomanName}, une noble femme en détresse,"/>
-    <string id="FleeingFate_Event_Desc_B" text="Alors que la nuit tombe sur {currentSettlement}, vous êtes approché par {noblewomanName},"/>
-    <string id="FleeingFate_Event_Desc_C" text="Sous le crépuscule de la ville, {noblewomanName}, une noble femme, cherche votre aide."/>
-    <string id="FleeingFate_Event_Desc_D" text="Dans le calme du soir en ville, {noblewomanName}, accablée par sa lignée noble,"/>
-    <string id="FleeingFate_Event_Desc_E" text="Alors que les ombres du soir s'étendent sur la ville, un appel désespéré de {noblewomanName},"/>
-    <string id="FleeingFate_Event_Choice_1AA" text="Vous choisissez les toits pour leur point de vue et leur relative discrétion."/>
-    <string id="FleeingFate_Event_Choice_1AB" text="Dans cette évasion méticuleusement planifiée, vous organisez un départ dans la charrette d'un marchand,"/>
-    <string id="FleeingFate_Event_Choice_1AC" text="En synchronisant l'évasion avec le festival annuel de la ville, vous et {noblewomanName}"/>
-    <string id="FleeingFate_Event_Choice_1AD" text="Le passage souterrain oublié, vestige des temps anciens, sert de"/>
-    <string id="FleeingFate_Event_Choice_1AE" text="La rivière, alliée silencieuse de votre plan, promet une voie d'évasion discrète."/>
-    <string id="FleeingFate_Event_Choice_1BA" text="Votre plan de traverser la ville par les toits commence bien,"/>
-    <string id="FleeingFate_Event_Choice_1BB" text="Déguisé en simple marchand, vous conduisez la charrette avec {noblewomanName}"/>
-    <string id="FleeingFate_Event_Choice_1BC" text="Le festival vibrant, rempli de musique et de danse, semble parfait"/>
-    <string id="FleeingFate_Event_Choice_1BD" text="Le passage souterrain ancien, autrefois un phare d'espoir, se transforme en piège."/>
-    <string id="FleeingFate_Event_Choice_1BE" text="Le plan de fuite par la rivière commence bien alors que vous ramez le petit bateau"/>
-    <string id="FleeingFate_Event_Choice_2AA" text="Dans un coin tranquille de la ville, vous parlez avec {noblewomanName}, offrant"/>
-    <string id="FleeingFate_Event_Choice_2AB" text="Vous rencontrez {noblewomanName} dans un endroit isolé et discutez de l'importance de"/>
-    <string id="FleeingFate_Event_Choice_2AC" text="Sous les lumières tamisées de la ville, vous encouragez {noblewomanName} à trouver la force"/>
-    <string id="FleeingFate_Event_Choice_2AD" text="Dans une conversation approfondie avec {noblewomanName}, vous soulignez le pouvoir qu'elle"/>
-    <string id="FleeingFate_Event_Choice_2AE" text="Au cours de votre conversation, vous mettez en avant les opportunités de croissance personnelle"/>
-    <string id="FleeingFate_Event_Choice_2BA" text="Dans la lumière tamisée de la ville, vous rencontrez {noblewomanName} et essayez de"/>
-    <string id="FleeingFate_Event_Choice_2BB" text="Alors que vous vous asseyez avec {noblewomanName} dans un endroit calme et isolé, vous discutez"/>
-    <string id="FleeingFate_Event_Choice_2BC" text="Vous tentez d'inspirer {noblewomanName} avec des mots sur la recherche de la force intérieure"/>
-    <string id="FleeingFate_Event_Choice_2BD" text="Dans votre conversation avec {noblewomanName}, vous soulignez l'influence qu'elle peut"/>
-    <string id="FleeingFate_Event_Choice_2BE" text="Vous parlez à {noblewomanName} des opportunités de croissance personnelle"/>
-    <string id="FleeingFate_Event_Choice_3AA" text="Votre décision de ne pas intervenir est accompagnée d'un discours réconfortant sur"/>
-    <string id="FleeingFate_Event_Choice_3AB" text="Bien que vous refusiez une assistance directe, vous passez du temps à inculquer un sens"/>
-    <string id="FleeingFate_Event_Choice_3AC" text="Alors que vous refusez d'aider {noblewomanName} à s'échapper, vous l'encouragez à"/>
-    <string id="FleeingFate_Event_Choice_3AD" text="Vous choisissez de ne pas aider {noblewomanName} à fuir mais vous la guidez vers"/>
-    <string id="FleeingFate_Event_Choice_3AE" text="En refusant sa demande d'aide, vous vous concentrez sur le développement de son sens de"/>
-    <string id="FleeingFate_Event_Choice_3BA" text="Dans votre conversation avec {noblewomanName}, vous exprimez votre décision de ne pas"/>
-    <string id="FleeingFate_Event_Choice_3BB" text="Votre refus de l'aider à s'échapper, associé à un discours sur l'autonomie,"/>
-    <string id="FleeingFate_Event_Choice_3BC" text="Lorsque vous refusez d'aider {noblewomanName}, visant à l'inspirer à trouver sa propre force,"/>
-    <string id="FleeingFate_Event_Choice_3BD" text="Alors que vous suggérez à {noblewomanName} de trouver de la force en elle-même, elle"/>
-    <string id="FleeingFate_Event_Choice_3BE" text="Votre conseil bien intentionné sur l'autonomie et la force intérieure tombe dans l'oreille d'un sourd"/>
-    <string id="FleeingFate_Event_Choice_4AA" text="Vous organisez une rencontre avec la famille de {noblewomanName} sous prétexte de"/>
-    <string id="FleeingFate_Event_Choice_4AB" text="Votre connaissance approfondie des maisons nobles et de leurs alliances vous conduit à"/>
-    <string id="FleeingFate_Event_Choice_4AC" text="Votre approche de la négociation implique une plongée profonde dans le réseau social de la noblesse."/>
-    <string id="FleeingFate_Event_Choice_4AD" text="Dans votre rencontre avec la famille de {noblewomanName}, vous présentez un vieil argument"/>
-    <string id="FleeingFate_Event_Choice_4AE" text="Dans votre négociation avec la famille de {noblewomanName}, vous mettez en avant l'importance"/>
-    <string id="FleeingFate_Event_Choice_4BA" text="Lors d'une session de négociation formelle avec la famille de {noblewomanName}, vous exposez méthodiquement"/>
-    <string id="FleeingFate_Event_Choice_4BB" text="Vous approchez la famille de {noblewomanName} avec confiance, proposant une alternative"/>
-    <string id="FleeingFate_Event_Choice_4BC" text="Dans l'intention d'offrir une alternative mutuellement bénéfique, vous présentez votre"/>
-    <string id="FleeingFate_Event_Choice_4BD" text="Vous entamez la négociation avec une stratégie claire, plaidant pour un mariage"/>
-    <string id="FleeingFate_Event_Choice_4BE" text="Avec une vision d'une union progressive et bénéfique, vous rencontrez"/>
-    <string id="FleeingFate_Event_Choice_5A" text="Dans une partie isolée et faiblement éclairée de la ville, vous confrontez {noblewomanName}"/>
-    <string id="FleeingFate_Event_Choice_5B" text="Vous attaquez {noblewomanName} dans un endroit isolé, où votre explosion de violence"/>
-    <string id="FleeingFate_Event_Choice_5C" text="Dans un bâtiment abandonné, vous soumettez {noblewomanName} à une nuit de tortures sans fin"/>
-    <string id="FleeingFate_Event_Choice_5D" text="Vous attirez {noblewomanName} dans un endroit où vous avez mis en scène une démonstration brutale"/>
-    <string id="FleeingFate_Event_Choice_5E" text="Vous orchestrez l'enlèvement de {noblewomanName} vers un lieu caché où elle"/>
-    <string id="FleeingFate_Event_Choice_6A" text="Au fond de la nature isolée, vous menez {noblewomanName} sous le faux prétexte de la sauver"/>
-    <string id="FleeingFate_Event_Choice_6B" text="Dans le silence effrayant des ruines anciennes, {noblewomanName} fait face à l'horrible"/>
-    <string id="FleeingFate_Event_Choice_6C" text="Au bord de la rivière, la lueur de la lune projette une lumière sinistre alors que vous exécutez votre plan"/>
-    <string id="FleeingFate_Event_Choice_6D" text="L'entrepôt abandonné devient une chambre d'horreurs alors que vous révélez votre nature monstrueuse"/>
-    <string id="FleeingFate_Event_Choice_6E" text="Dans une cave humide et oubliée, vous amenez {noblewomanName} à faire face à un destin pire que la mort"/>
-    <string id="FleeingFate_Event_Msg_1AA" text="{heroName} a aidé {noblewomanName} à s'échapper et a reçu {goldReward} pièces d'or en récompense."/>
-    <string id="FleeingFate_Event_Msg_1AB" text="{heroName} a réussi à aider {noblewomanName} à fuir la ville, gagnant {goldReward} pièces d'or pour l'acte."/>
-    <string id="FleeingFate_Event_Msg_1AC" text="{heroName} a orchestré l'évasion de {noblewomanName}, étant compensé par {goldReward} pièces d'or pour ses efforts."/>
-    <string id="FleeingFate_Event_Msg_1AD" text="{heroName} a assuré le départ en sécurité de {noblewomanName} de la ville et a été récompensé par {goldReward} pièces d'or."/>
-    <string id="FleeingFate_Event_Msg_1AE" text="{heroName} a facilité l'évasion réussie de {noblewomanName} et a reçu {goldReward} pièces d'or en signe de gratitude."/>
-    <string id="FleeingFate_Event_Msg_1BA" text="La tentative de {heroName} d'aider {noblewomanName} à s'échapper a été déjouée, échappant de peu à la capture."/>
-    <string id="FleeingFate_Event_Msg_1BB" text="{heroName} a échoué à aider {noblewomanName} à s'échapper, échappant de justesse aux griffes des gardes."/>
-    <string id="FleeingFate_Event_Msg_1BC" text="{heroName} n'a pas pu sécuriser la liberté de {noblewomanName}, devant fuir seul alors que le plan échouait."/>
-    <string id="FleeingFate_Event_Msg_1BD" text="Le plan de {heroName} pour aider {noblewomanName} à fuir a été déjoué, forçant une retraite les mains vides."/>
-    <string id="FleeingFate_Event_Msg_1BE" text="{heroName} a tenté d'assister {noblewomanName} dans son évasion, mais le plan a échoué, entraînant une fuite étroite."/>
-    <string id="FleeingFate_Event_Msg_2AA" text="{heroName} a persuadé {noblewomanName} de rester, renforçant sa résolution et sa perspective."/>
-    <string id="FleeingFate_Event_Msg_2AB" text="{heroName} a conseillé {noblewomanName}, menant à sa détermination renouvelée et à l'espoir."/>
-    <string id="FleeingFate_Event_Msg_2AC" text="Les conseils de {heroName} ont conduit {noblewomanName} sur un chemin de résilience et d'acceptation."/>
-    <string id="FleeingFate_Event_Msg_2AD" text="{heroName} a influencé {noblewomanName} à s'adapter, favorisant sa croissance et sa force."/>
-    <string id="FleeingFate_Event_Msg_2AE" text="{heroName} a guidé {noblewomanName}, transformant son dilemme en une nouvelle opportunité."/>
-    <string id="FleeingFate_Event_Msg_2BA" text="La tentative de {heroName} de persuader {noblewomanName} a échoué, la laissant découragée."/>
-    <string id="FleeingFate_Event_Msg_2BB" text="{heroName} n'a pas réussi à convaincre {noblewomanName}, qui est restée opposée à sa situation."/>
-    <string id="FleeingFate_Event_Msg_2BC" text="Les conseils de {heroName} ont été rejetés par {noblewomanName}, approfondissant son désespoir."/>
-    <string id="FleeingFate_Event_Msg_2BD" text="Les efforts de {heroName} pour convaincre {noblewomanName} ont été vains, la laissant non résolue."/>
-    <string id="FleeingFate_Event_Msg_2BE" text="Les conseils de {heroName} à {noblewomanName} n'ont pas réussi à altérer son sombre avenir."/>
-    <string id="FleeingFate_Event_Msg_3AA" text="Les encouragements de {heroName} ont conduit {noblewomanName} à trouver sa propre force, devenant une alliée précieuse."/>
-    <string id="FleeingFate_Event_Msg_3AB" text="{heroName} a inspiré {noblewomanName} à l'autonomie, résultant en son amitié influente."/>
-    <string id="FleeingFate_Event_Msg_3AC" text="Les conseils de {heroName} ont renforcé {noblewomanName}, qui a tracé un chemin de succès et d'alliance."/>
-    <string id="FleeingFate_Event_Msg_3AD" text="{heroName} a motivé {noblewomanName} à l'indépendance, la menant à devenir une alliée de soutien."/>
-    <string id="FleeingFate_Event_Msg_3AE" text="Les conseils de {heroName} ont aidé {noblewomanName} à s'émanciper, assurant une future alliée."/>
-    <string id="FleeingFate_Event_Msg_3BA" text="Le refus de {heroName} d'aider a laissé {noblewomanName} amère, entraînant des rumeurs nuisibles."/>
-    <string id="FleeingFate_Event_Msg_3BB" text="Le refus d'aide de {heroName} a conduit {noblewomanName} à ressentir du ressentiment, provoquant des ragots défavorables."/>
-    <string id="FleeingFate_Event_Msg_3BC" text="{heroName} a refusé d'assister {noblewomanName}, qui a ensuite répandu des paroles dénigrantes."/>
-    <string id="FleeingFate_Event_Msg_3BD" text="Le manque de soutien de {heroName} a causé l'hostilité de {noblewomanName}, entraînant des ragots nuisibles."/>
-    <string id="FleeingFate_Event_Msg_3BE" text="Le rejet de {heroName} a rendu {noblewomanName} hostile, entraînant des représailles nuisibles."/>
-    <string id="FleeingFate_Event_Msg_4AA" text="Les négociations de {heroName} ont assuré une meilleure alliance pour {noblewomanName}, gagnant sa gratitude et {goldReward} pièces d'or."/>
-    <string id="FleeingFate_Event_Msg_4AB" text="{heroName} a négocié avec succès une alliance plus appropriée pour {noblewomanName}, récompensé par {goldReward} pièces d'or."/>
-    <string id="FleeingFate_Event_Msg_4AC" text="Les compétences diplomatiques de {heroName} ont trouvé un avenir plus heureux pour {noblewomanName}, gagnant {goldReward} pièces d'or."/>
-    <string id="FleeingFate_Event_Msg_4AD" text="{heroName} a arrangé un mariage favorable pour {noblewomanName}, recevant {goldReward} pièces d'or pour ses efforts."/>
-    <string id="FleeingFate_Event_Msg_4AE" text="{heroName} a négocié un meilleur prétendant pour {noblewomanName}, récompensé par {goldReward} pièces d'or."/>
-    <string id="FleeingFate_Event_Msg_4BA" text="La négociation de {heroName} pour {noblewomanName} a échoué, entraînant leur expulsion."/>
-    <string id="FleeingFate_Event_Msg_4BB" text="{heroName} n'a pas réussi à convaincre la famille de {noblewomanName}, résultant en une expulsion."/>
-    <string id="FleeingFate_Event_Msg_4BC" text="Les efforts de {heroName} pour trouver un nouveau prétendant pour {noblewomanName} ont été repoussés."/>
-    <string id="FleeingFate_Event_Msg_4BD" text="La proposition de {heroName} pour {noblewomanName} a été rejetée, se terminant par une éjection."/>
-    <string id="FleeingFate_Event_Msg_4BE" text="{heroName} a fait face à un refus pour re-matcher {noblewomanName}, entraînant leur retrait."/>
-    <string id="FleeingFate_Event_Msg_5A" text="{heroName} a contraint la soumission de {noblewomanName} par des moyens impitoyables, assurant son accord forcé."/>
-    <string id="FleeingFate_Event_Msg_5B" text="{heroName} a utilisé des mesures extrêmes pour briser la défiance de {noblewomanName}, ne laissant aucune autre option que la conformité."/>
-    <string id="FleeingFate_Event_Msg_5C" text="{heroName} a forcé {noblewomanName} à se soumettre par une démonstration de pouvoir et d'intimidation écrasante."/>
-    <string id="FleeingFate_Event_Msg_5D" text="{heroName} a assuré l'acquiescement réticent de {noblewomanName} par une démonstration de force harassante."/>
-    <string id="FleeingFate_Event_Msg_5E" text="{heroName} a soumis {noblewomanName} avec une combinaison impitoyable de domination mentale et physique."/>
-    <string id="FleeingFate_Event_Msg_6A" text="{heroName} a orchestré un destin sombre pour {noblewomanName}, assurant sa fin tragique et non détectée."/>
-    <string id="FleeingFate_Event_Msg_6B" text="{heroName} a mis en œuvre un plan impitoyable, entraînant la disparition permanente et introuvable de {noblewomanName}."/>
-    <string id="FleeingFate_Event_Msg_6C" text="{heroName} a cruellement assuré que le destin de {noblewomanName} soit scellé dans le secret, ne laissant aucune trace derrière."/>
-    <string id="FleeingFate_Event_Msg_6D" text="Les actions de {heroName} ont entraîné la disparition silencieuse de {noblewomanName}, sa fin enveloppée de ténèbres."/>
-    <string id="FleeingFate_Event_Msg_6E" text="{heroName} a orchestré une fin harassante pour {noblewomanName}, avec ses derniers moments perdus dans l'oubli."/>
+    <string id="FleeingFate_Skill_Check_Disable_Appended_Text" text="**Skill checks are disabled**"/>
+    <string id="FleeingFate_Roguery_Appended_Text" text="[Steward - lvl {minStewardLevel}]"/>
+    <string id="FleeingFate_Roguery_Appended_Text" text="[Roguery - lvl {minRogueryLevel}]"/>
+    <string id="FleeingFate_Event_Option_1" text="Help her"/>
+    <string id="FleeingFate_Event_Option_1_Hover" text="Try to help her get away from the city."/>
+    <string id="FleeingFate_Event_Option_2" text="Convince her"/>
+    <string id="FleeingFate_Event_Option_2_Hover" text="Remind her of her duty as a Noble."/>
+    <string id="FleeingFate_Event_Option_3" text="Words of wisdom"/>
+    <string id="FleeingFate_Event_Option_3_Hover" text="Try to her to make her own choice."/>
+    <string id="FleeingFate_Event_Option_4" text="[Steward] Negotiate"/>
+    <string id="FleeingFate_Event_Option_4_Hover" text="Try and talk to her family.\n{stewardAppendedText}"/>
+    <string id="FleeingFate_Event_Option_5" text="[Roguery] Beat her"/>
+    <string id="FleeingFate_Event_Option_5_Hover" text="Make sure she gets the message.\n{rogueryAppendedText}"/>
+    <string id="FleeingFate_Event_Option_5" text="[Roguery] Kill her"/>
+    <string id="FleeingFate_Event_Option_5_Hover" text="One less problem.\n{rogueryAppendedText}"/>
+    <string id="FleeingFate_Event_Button_Text_1" text="Choose"/>
+    <string id="FleeingFate_Event_Button_Text_2" text="Done"/>
+    <string id="FleeingFate_Title_A" text="Fleeing Fate"/>
+    <string id="FleeingFate_Title_B" text="Escape from Bondage"/>
+    <string id="FleeingFate_Title_C" text="The Unwilling Bride"/>
+    <string id="FleeingFate_Title_D" text="Noble Dilemma"/>
+    <string id="FleeingFate_Title_E" text="Bound by Duty"/>
+    <string id="FleeingFate_Title_F" text="A Cry for Freedom"/>
+    <string id="FleeingFate_Title_G" text="Breaking Chains"/>
+    <string id="FleeingFate_Title_H" text="Against the Betrothal"/>
+    <string id="FleeingFate_Noblewoman_Name_A" text="Lady Cyrenia"/>
+    <string id="FleeingFate_Noblewoman_Name_B" text="Lady Elithina"/>
+    <string id="FleeingFate_Noblewoman_Name_C" text="Lady Galereth"/>
+    <string id="FleeingFate_Noblewoman_Name_D" text="Lady Ysmera"/>
+    <string id="FleeingFate_Noblewoman_Name_E" text="Lady Thalica"/>
+    <string id="FleeingFate_Noblewoman_Name_F" text="Lady Venalia"/>
+    <string id="FleeingFate_Noblewoman_Name_G" text="Lady Rhydena"/>
+    <string id="FleeingFate_Noblewoman_Name_H" text="Lady Esmereth"/>
+    <string id="FleeingFate_Noblewoman_Name_I" text="Lady Lythania"/>
+    <string id="FleeingFate_Noblewoman_Name_J" text="Lady Saralia"/>
+    <string id="FleeingFate_Event_Desc_A" text="In the city's dim evening light, {noblewomanName}, a distressed noblewoman,"/>
+    <string id="FleeingFate_Event_Desc_B" text="As night descends upon {currentSettlement}, you're approached by {noblewomanName},"/>
+    <string id="FleeingFate_Event_Desc_C" text="Under the city's twilight, {noblewomanName}, a noblewoman, seeks your help."/>
+    <string id="FleeingFate_Event_Desc_D" text="In the city's evening quiet, {noblewomanName}, burdened by her noble lineage,"/>
+    <string id="FleeingFate_Event_Desc_E" text="As the city's evening shadows grow, a desperate plea from {noblewomanName},"/>
+    <string id="FleeingFate_Event_Choice_1AA" text="You choose the rooftops for their vantage point and relative secrecy."/>
+    <string id="FleeingFate_Event_Choice_1AB" text="In this meticulously planned escape, you arrange for a merchant's cart,"/>
+    <string id="FleeingFate_Event_Choice_1AC" text="Timing the escape with the city's annual festival, you and {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_1AD" text="The forgotten underground passage, a remnant of ancient times, serves as"/>
+    <string id="FleeingFate_Event_Choice_1AE" text="The river, a silent ally in your plan, promises a discreet escape route."/>
+    <string id="FleeingFate_Event_Choice_1BA" text="Your plan to traverse the city via its rooftops starts with promise,"/>
+    <string id="FleeingFate_Event_Choice_1BB" text="Disguised as a simple merchant, you drive the cart with {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_1BC" text="The vibrant festival, filled with music and dance, seems like the perfect"/>
+    <string id="FleeingFate_Event_Choice_1BD" text="The ancient underground passage, once a beacon of hope, turns into a trap."/>
+    <string id="FleeingFate_Event_Choice_1BE" text="The plan to escape by river starts smoothly as you row the small boat"/>
+    <string id="FleeingFate_Event_Choice_2AA" text="In a quiet corner of the city, you speak with {noblewomanName}, offering"/>
+    <string id="FleeingFate_Event_Choice_2AB" text="You meet {noblewomanName} in a secluded spot and discuss the importance of"/>
+    <string id="FleeingFate_Event_Choice_2AC" text="Under the dim city lights, you encourage {noblewomanName} to find strength"/>
+    <string id="FleeingFate_Event_Choice_2AD" text="In a deep conversation with {noblewomanName}, you emphasize the power she"/>
+    <string id="FleeingFate_Event_Choice_2AE" text="During your conversation, you highlight the opportunities for personal growth"/>
+    <string id="FleeingFate_Event_Choice_2BA" text="In the dim light of the city, you meet with {noblewomanName} and try to"/>
+    <string id="FleeingFate_Event_Choice_2BB" text="As you sit with {noblewomanName} in a quiet, secluded area, you discuss"/>
+    <string id="FleeingFate_Event_Choice_2BC" text="You attempt to inspire {noblewomanName} with words about finding inner"/>
+    <string id="FleeingFate_Event_Choice_2BD" text="In your conversation with {noblewomanName}, you highlight the influential"/>
+    <string id="FleeingFate_Event_Choice_2BE" text="You speak to {noblewomanName} about the opportunities for personal growth"/>
+    <string id="FleeingFate_Event_Choice_3AA" text="Your decision not to intervene is coupled with a heartening talk about"/>
+    <string id="FleeingFate_Event_Choice_3AB" text="Although you refuse direct assistance, you spend time instilling a sense"/>
+    <string id="FleeingFate_Event_Choice_3AC" text="While you decline to help {noblewomanName} escape, you encourage her to"/>
+    <string id="FleeingFate_Event_Choice_3AD" text="You choose not to help {noblewomanName} flee but instead guide her towards"/>
+    <string id="FleeingFate_Event_Choice_3AE" text="In denying her request for help, you focus on fostering her sense of"/>
+    <string id="FleeingFate_Event_Choice_3BA" text="In your conversation with {noblewomanName}, you express your decision not"/>
+    <string id="FleeingFate_Event_Choice_3BB" text="Your refusal to aid her escape, coupled with a speech about self-reliance,"/>
+    <string id="FleeingFate_Event_Choice_3BC" text="When you decline to help {noblewomanName}, aiming instead to inspire her to"/>
+    <string id="FleeingFate_Event_Choice_3BD" text="As you suggest to {noblewomanName} that she find strength in herself, she"/>
+    <string id="FleeingFate_Event_Choice_3BE" text="Your well-meaning advice on self-reliance and inner strength falls on deaf"/>
+    <string id="FleeingFate_Event_Choice_4AA" text="You set up a meeting with {noblewomanName}'s family under the guise of"/>
+    <string id="FleeingFate_Event_Choice_4AB" text="Your extensive knowledge of noble houses and their alliances leads you to"/>
+    <string id="FleeingFate_Event_Choice_4AC" text="Your negotiation approach involves a deep dive into the social network of nobility."/>
+    <string id="FleeingFate_Event_Choice_4AD" text="In your meeting with {noblewomanName}'s family, you bring an old but"/>
+    <string id="FleeingFate_Event_Choice_4AE" text="In your negotiation with {noblewomanName}'s family, you emphasize the importance"/>
+    <string id="FleeingFate_Event_Choice_4BA" text="During a formal negotiation session with {noblewomanName}'s family, you meticulously"/>
+    <string id="FleeingFate_Event_Choice_4BB" text="You approach {noblewomanName}'s family with confidence, proposing an alternative"/>
+    <string id="FleeingFate_Event_Choice_4BC" text="With the intent to offer a mutually beneficial alternative, you present your"/>
+    <string id="FleeingFate_Event_Choice_4BD" text="You enter the negotiation with a clear strategy, advocating for a marriage"/>
+    <string id="FleeingFate_Event_Choice_4BE" text="With a vision of a progressive and beneficial union, you meet with"/>
+    <string id="FleeingFate_Event_Choice_5A" text="In a secluded and dimly lit part of the city, you confront {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_5B" text="You ambush {noblewomanName} in an isolated area, where your violent outburst"/>
+    <string id="FleeingFate_Event_Choice_5C" text="In an abandoned building, you subject {noblewomanName} to a night of relentless"/>
+    <string id="FleeingFate_Event_Choice_5D" text="You lure {noblewomanName} to a place where you've staged a brutal demonstration"/>
+    <string id="FleeingFate_Event_Choice_5E" text="You orchestrate {noblewomanName}'s abduction to a hidden location where she"/>
+    <string id="FleeingFate_Event_Choice_6A" text="Deep in the secluded wilderness, you lead {noblewomanName} under the false"/>
+    <string id="FleeingFate_Event_Choice_6B" text="In the eerie silence of ancient ruins, {noblewomanName} faces the horrifying"/>
+    <string id="FleeingFate_Event_Choice_6C" text="At the river's edge, the moonlight casts a sinister glow as you enact your"/>
+    <string id="FleeingFate_Event_Choice_6D" text="The abandoned warehouse becomes a chamber of horrors as you reveal your monstrous"/>
+    <string id="FleeingFate_Event_Choice_6E" text="In a dank, forgotten cellar, you bring {noblewomanName} to face a fate worse than"/>
+    <string id="FleeingFate_Event_Msg_1AA" text="{heroName} helped {noblewomanName} escape and received {goldReward} gold as a reward."/>
+    <string id="FleeingFate_Event_Msg_1AB" text="{heroName} successfully aided {noblewomanName} in fleeing the city, earning {goldReward} gold for the deed."/>
+    <string id="FleeingFate_Event_Msg_1AC" text="{heroName} orchestrated {noblewomanName}'s escape, being compensated with {goldReward} gold for the effort."/>
+    <string id="FleeingFate_Event_Msg_1AD" text="{heroName} ensured {noblewomanName}'s safe departure from the city and was rewarded with {goldReward} gold."/>
+    <string id="FleeingFate_Event_Msg_1AE" text="{heroName} facilitated {noblewomanName}'s successful escape and was given {goldReward} gold in gratitude."/>
+    <string id="FleeingFate_Event_Msg_1BA" text="{heroName}'s attempt to help {noblewomanName} escape was thwarted, narrowly avoided capture."/>
+    <string id="FleeingFate_Event_Msg_1BB" text="{heroName} failed in aiding {noblewomanName}'s escape, barely escaping the guards' clutches."/>
+    <string id="FleeingFate_Event_Msg_1BC" text="{heroName} could not secure {noblewomanName}'s freedom, having to flee alone as the plan fell apart."/>
+    <string id="FleeingFate_Event_Msg_1BD" text="{heroName}'s plan to help {noblewomanName} flee was foiled, forcing a retreat empty-handed."/>
+    <string id="FleeingFate_Event_Msg_1BE" text="{heroName} attempted to assist {noblewomanName}'s escape, but the plan failed, resulting in a narrow escape."/>
+    <string id="FleeingFate_Event_Msg_2AA" text="{heroName} persuaded {noblewomanName} to stay, enhancing her resolve and perspective."/>
+    <string id="FleeingFate_Event_Msg_2AB" text="{heroName} counseled {noblewomanName}, leading to her renewed determination and hope."/>
+    <string id="FleeingFate_Event_Msg_2AC" text="{heroName}'s advice led {noblewomanName} to a path of resilience and acceptance."/>
+    <string id="FleeingFate_Event_Msg_2AD" text="{heroName} influenced {noblewomanName} to adapt, fostering her growth and strength."/>
+    <string id="FleeingFate_Event_Msg_2AE" text="{heroName} guided {noblewomanName}, turning her predicament into a newfound opportunity."/>
+    <string id="FleeingFate_Event_Msg_2BA" text="{heroName}'s attempt to persuade {noblewomanName} failed, leaving her despondent."/>
+    <string id="FleeingFate_Event_Msg_2BB" text="{heroName} could not sway {noblewomanName}, who remained set against her situation."/>
+    <string id="FleeingFate_Event_Msg_2BC" text="{heroName}'s counsel was rejected by {noblewomanName}, deepening her despair."/>
+    <string id="FleeingFate_Event_Msg_2BD" text="{heroName}'s efforts to convince {noblewomanName} were in vain, leaving her unresolved."/>
+    <string id="FleeingFate_Event_Msg_2BE" text="{heroName}'s advice to {noblewomanName} fell short, failing to alter her grim outlook."/>
+    <string id="FleeingFate_Event_Msg_3AA" text="{heroName}'s encouragement led {noblewomanName} to find her own strength, becoming a valuable ally."/>
+    <string id="FleeingFate_Event_Msg_3AB" text="{heroName} inspired {noblewomanName} to self-reliance, resulting in her influential friendship."/>
+    <string id="FleeingFate_Event_Msg_3AC" text="{heroName}'s advice empowered {noblewomanName}, who forged a path of success and alliance."/>
+    <string id="FleeingFate_Event_Msg_3AD" text="{heroName} motivated {noblewomanName} to independence, leading to her becoming a supportive ally."/>
+    <string id="FleeingFate_Event_Msg_3AE" text="{heroName}'s guidance helped {noblewomanName} to self-empowerment, securing a future ally."/>
+    <string id="FleeingFate_Event_Msg_3BA" text="{heroName}'s refusal to help left {noblewomanName} bitter, resulting in damaging rumors."/>
+    <string id="FleeingFate_Event_Msg_3BB" text="{heroName}'s denial of aid led {noblewomanName} to resentment, sparking adverse gossip."/>
+    <string id="FleeingFate_Event_Msg_3BC" text="{heroName} declined to assist {noblewomanName}, who later spread disparaging words."/>
+    <string id="FleeingFate_Event_Msg_3BD" text="{heroName}'s lack of support caused {noblewomanName}'s enmity, leading to negative hearsay."/>
+    <string id="FleeingFate_Event_Msg_3BE" text="{heroName}'s rejection made {noblewomanName} hostile, resulting in harmful backlash."/>
+    <string id="FleeingFate_Event_Msg_4AA" text="{heroName}'s negotiation secured a better match for {noblewomanName}, earning gratitude and {goldReward}."/>
+    <string id="FleeingFate_Event_Msg_4AB" text="{heroName} successfully brokered a more suitable alliance for {noblewomanName}, rewarded with {goldReward}."/>
+    <string id="FleeingFate_Event_Msg_4AC" text="{heroName}'s diplomatic skills found {noblewomanName} a happier future, gaining {goldReward}."/>
+    <string id="FleeingFate_Event_Msg_4AD" text="{heroName} arranged a favorable marriage for {noblewomanName}, receiving {goldReward} for the effort."/>
+    <string id="FleeingFate_Event_Msg_4AE" text="{heroName} negotiated a better suitor for {noblewomanName}, rewarded with {goldReward}."/>
+    <string id="FleeingFate_Event_Msg_4BA" text="{heroName}'s negotiation for {noblewomanName} failed, leading to their dismissal."/>
+    <string id="FleeingFate_Event_Msg_4BB" text="{heroName} could not sway {noblewomanName}'s family, resulting in being expelled."/>
+    <string id="FleeingFate_Event_Msg_4BC" text="{heroName}'s efforts to find a new match for {noblewomanName} were rebuffed."/>
+    <string id="FleeingFate_Event_Msg_4BD" text="{heroName}'s proposal for {noblewomanName} was rejected, ending in ejection."/>
+    <string id="FleeingFate_Event_Msg_4BE" text="{heroName} faced refusal in re-matching {noblewomanName}, leading to their removal."/>
+    <string id="FleeingFate_Event_Msg_5A" text="{heroName} coerced {noblewomanName}'s submission through unsparing means, ensuring her forced agreement."/>
+    <string id="FleeingFate_Event_Msg_5B" text="{heroName} used extreme measures to break {noblewomanName}'s defiance, leaving her no choice but compliance."/>
+    <string id="FleeingFate_Event_Msg_5C" text="{heroName} forced {noblewomanName} into submission with a display of overwhelming power and intimidation."/>
+    <string id="FleeingFate_Event_Msg_5D" text="{heroName} ensured {noblewomanName}'s reluctant acquiescence through a harrowing show of force."/>
+    <string id="FleeingFate_Event_Msg_5E" text="{heroName} subjugated {noblewomanName} with a ruthless combination of mental and physical domination."/>
+    <string id="FleeingFate_Event_Msg_6A" text="{heroName} orchestrated a grim fate for {noblewomanName}, ensuring her tragic and undetected demise."/>
+    <string id="FleeingFate_Event_Msg_6B" text="{heroName} enacted a merciless plan, leading to the permanent and untraceable disappearance of {noblewomanName}."/>
+    <string id="FleeingFate_Event_Msg_6C" text="{heroName} cruelly ensured {noblewomanName}'s fate was sealed in secrecy, leaving no trace behind."/>
+    <string id="FleeingFate_Event_Msg_6D" text="{heroName}'s actions resulted in the silent vanishing of {noblewomanName}, her end shrouded in darkness."/>
+    <string id="FleeingFate_Event_Msg_6E" text="{heroName} masterminded a harrowing end for {noblewomanName}, with her final moments lost to oblivion."/>
 
 
 
