@@ -258,7 +258,7 @@ namespace Bannerlord.RandomEvents.Events.BicEvents
 					var eventTitle3 = new TextObject("{=CompanionAdmire_Title}Companion Admiration").ToString();
 
 					var eventOption3 = new TextObject(
-							"{=CompanionAdmire_Event_Tex3t}While travelling near {closestsettlement} your surgeon, {surgeon}, approaches you for a chat. Casual conversation soon turns to a more serious matter in regards" +
+							"{=CompanionAdmire_Event_Text3}While travelling near {closestsettlement} your surgeon, {surgeon}, approaches you for a chat. Casual conversation soon turns to a more serious matter in regards" +
 							" to the party and its future. \n\n{surgeon} wants you to know {gender} admires your leadership and looks forward to celebrating the many future victories along your side. Lastly noting {gender} is determined to bring honor" +
 							" to the {clan} clan in any way {gender} can.")
 						.SetTextVariable("closestsettlement", closestSettlement)

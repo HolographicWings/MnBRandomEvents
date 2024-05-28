@@ -274,6 +274,81 @@
     <string id="BeggarBegging_Event_Msg_4" text="{heroName} took the beggar to get some food." />
     <string id="BeggarBegging_Event_Msg_5" text="{heroName} killed an innocent beggar." />
 
+    <string id="BeggarBegging_Title_A" text="Beggar's Lament" />
+    <string id="BeggarBegging_Title_B" text="Pleading Pauper" />
+    <string id="BeggarBegging_Title_C" text="Begging Hands" />
+    <string id="BeggarBegging_Title_D" text="Street Appeal" />
+    <string id="BeggarBegging_Title_E" text="Alms Seeker" />
+    <string id="BeggarBegging_Title_F" text="Beggar's Request" />
+    <string id="BeggarBegging_Title_G" text="Poverty's Plea" />
+    <string id="BeggarBegging_Title_H" text="Street Beggar's Cry" />
+
+    <string id="BeggarBegging_Event_Desc_A" text="While taking a break in {currentSettlement}, you're approached by a {beggarAge} {beggarGender} beggar. The individual stands before you, {genderAssignmentSubjective} eyes conveying hope and resignation. In a humble voice, {genderAssignmentSubjective} ask if you could spare some gold. Observing {genderAssignmentSubjective}, you can't help but ponder {genderAssignmentAdjective} story and the circumstances that led {genderAssignmentObjective} to this moment. You find yourself contemplating how to respond, considering the impact of your decision on both {genderAssignmentObjective} life and yours." />
+    <string id="BeggarBegging_Event_Desc_B" text="As you relax in the bustling environment of {currentSettlement}, your attention is drawn to a {beggarAge} {beggarGender} beggar who approaches you with a hesitant step. The beggar's eyes, weary yet hopeful, meet yours as {genderAssignmentSubjective} extend a trembling hand, asking for some gold. The moment stretches out as you consider {genderAssignmentAdjective} plight, the hardships {genderAssignmentSubjective} must have faced, and the difference a simple act of kindness could make in {genderAssignmentObjective} life." />
+    <string id="BeggarBegging_Event_Desc_C" text="During your leisure time in {currentSettlement}, you are approached by a {beggarAge} {beggarGender} beggar, whose presence interrupts your thoughts. {genderAssignmentSubjectiveCap} stand there, a figure of need and desperation, softly asking for whatever gold you can spare. The encounter prompts you to reflect on {genderAssignmentAdjective} life story, the struggles {genderAssignmentSubjective} may have endured, and the moral implications of your next action." />
+    <string id="BeggarBegging_Event_Desc_D" text="While enjoying a moment of peace in {currentSettlement}, your solitude is broken by the arrival of a {beggarAge} {beggarGender} beggar. With a look that speaks volumes of {genderAssignmentAdjective} life's challenges, {genderAssignmentSubjective} ask you for some gold. This unexpected meeting makes you pause and think about the larger picture of society, the unseen struggles of its less fortunate members, and the role you play in this intricate tapestry." />
+    <string id="BeggarBegging_Event_Desc_E" text="In the midst of your relaxation in {currentSettlement}, a {beggarAge} {beggarGender} beggar timidly makes {genderAssignmentAdjective} way towards you. {genderAssignmentSubjectiveCap} ask for assistance, a reflection of the broader societal issues and the personal stories of struggle. You ponder how a small gesture from you could potentially add a glimmer of hope to {genderAssignmentAdjective} challenging journey." />
+
+    <string id="BeggarBegging_Event_Choice_1A" text="You tell {genderAssignmentObjective} to f**ck off and that you don't have any gold to spare. {genderAssignmentSubjectiveCap} apologises for troubling you and wishes you a good day. You watch as {genderAssignmentSubjective} disappears into the crowd in search of gold." />
+    <string id="BeggarBegging_Event_Choice_1B" text="You brusquely inform {genderAssignmentObjective} that you have no gold to give. {genderAssignmentSubjectiveCap} offers a quick apology and bids you farewell. You observe {genderAssignmentSubjective} as {genderAssignmentSubjective} blends back into the busy streets." />
+    <string id="BeggarBegging_Event_Choice_1C" text="You curtly reject {genderAssignmentObjective}, stating your lack of spare gold. {genderAssignmentSubjectiveCap} nods understandingly and departs quietly. You see {genderAssignmentSubjective} weaving through the crowd, continuing {genderAssignmentAdjective} quest." />
+    <string id="BeggarBegging_Event_Choice_1D" text="You dismiss {genderAssignmentObjective} harshly, claiming you have nothing to offer. {genderAssignmentSubjectiveCap} expresses regret for the disturbance and moves on. You glance as {genderAssignmentSubjective} vanishes among the bustling throng." />
+    <string id="BeggarBegging_Event_Choice_1E" text="You sharply tell {genderAssignmentObjective} that you can't help. {genderAssignmentSubjectiveCap} apologizes and leaves respectfully. Watching, you notice {genderAssignmentSubjective} merge into the sea of people, still seeking assistance." />
+
+    <string id="BeggarBegging_Event_Choice_2A" text="You hand {genderAssignmentObjective} 5 gold from your pocket. {genderAssignmentSubjectiveCap} shakes your hand and thanks you for this humble gift and wishes you a blessed day. You watch as {genderAssignmentSubjective} disappears into the crowd in search of more gold." />
+    <string id="BeggarBegging_Event_Choice_2B" text="You give {genderAssignmentObjective} 5 gold coins. {genderAssignmentSubjectiveCap} gratefully clasps your hand, expressing heartfelt thanks for your generosity and blessing your day. You see {genderAssignmentSubjective} blend into the crowd, still seeking aid." />
+    <string id="BeggarBegging_Event_Choice_2C" text="You pass 5 gold pieces to {genderAssignmentObjective}. {genderAssignmentSubjectiveCap} warmly thanks you for your kindness, offering blessings for your journey ahead. You observe {genderAssignmentSubjective} as {genderAssignmentSubjective} merges back into the throngs of people." />
+    <string id="BeggarBegging_Event_Choice_2D" text="You slip 5 gold into {genderAssignmentObjective}'s hand. {genderAssignmentSubjectiveCap} offers a thankful handshake and bestows well wishes upon you. You watch {genderAssignmentSubjective} vanish into the crowd, continuing {genderAssignmentAdjective} plight." />
+    <string id="BeggarBegging_Event_Choice_2E" text="You extend 5 gold to {genderAssignmentObjective}. {genderAssignmentSubjectiveCap} gratefully acknowledges your gift with a handshake and kind words for a good day. You glance as {genderAssignmentSubjective} fades into the bustling crowd." />
+
+    <string id="BeggarBegging_Event_Choice_3A" text="You are feeling generous today so you hand {genderAssignmentObjective} 100 gold. {genderAssignmentSubjectiveCap} says {genderAssignmentSubjective} can't accept this, but you assure {genderAssignmentObjective} that it's okay and that you have more than enough for yourself. {genderAssignmentSubjectiveCap} begins to cry as you wrap {genderAssignmentObjective} in a hug and comfort {genderAssignmentObjective}. {genderAssignmentSubjectiveCap} tells you that {genderAssignmentSubjective} now has enough for a warm meal and a bed for a couple of days. Something {genderAssignmentSubjective} has not had for many days. {genderAssignmentSubjectiveCap} thanks you yet again before disappearing towards the tavern to get some warm food." />
+    <string id="BeggarBegging_Event_Choice_3B" text="Moved by generosity, you offer {genderAssignmentObjective} 100 gold. Initially hesitant, {genderAssignmentSubjectiveCap} eventually accepts after your reassurance. Overwhelmed, {genderAssignmentSubjectiveCap} breaks down in tears. You comfort {genderAssignmentObjective} with a warm embrace. {genderAssignmentSubjectiveCap} gratefully shares how this means a hot meal and a place to sleep, luxuries {genderAssignmentSubjective} hasn't had in a while. After heartfelt thanks, {genderAssignmentSubjective} heads off to the tavern." />
+    <string id="BeggarBegging_Event_Choice_3C" text="In a generous mood, you give {genderAssignmentObjective} 100 gold. {genderAssignmentSubjectiveCap} is initially reluctant, but you insist it's no burden. Tears well up in {genderAssignmentSubjective}'s eyes as you offer a comforting hug. {genderAssignmentSubjectiveCap} explains this gift means a few days of food and shelter, a rarity for {genderAssignmentSubjective}. With renewed gratitude, {genderAssignmentSubjective} heads towards the tavern for a much-needed meal." />
+    <string id="BeggarBegging_Event_Choice_3D" text="Feeling kind, you present {genderAssignmentObjective} with 100 gold. {genderAssignmentSubjectiveCap} tries to refuse, but your reassurance prevails. {genderAssignmentSubjectiveCap} tearfully embraces you, grateful for the chance at a warm meal and shelter, things {genderAssignmentSubjective} has missed greatly. After thanking you profusely, {genderAssignmentSubjective} makes {genderAssignmentAdjective} way to the tavern." />
+    <string id="BeggarBegging_Event_Choice_3E" text="With a generous heart, you hand over 100 gold to {genderAssignmentObjective}. {genderAssignmentSubjectiveCap} hesitates, but your encouragement convinces {genderAssignmentObjective}. {genderAssignmentSubjectiveCap}'s tears flow as you give a comforting hug. {genderAssignmentSubjectiveCap} shares how this means a rare few days of comfort and food. Expressing deep gratitude, {genderAssignmentSubjective} sets off for the tavern." />
+
+    <string id="BeggarBegging_Event_Choice_4A" text="You are feeling generous today so you tell {genderAssignmentObjective} that if {genderAssignmentSubjective} wants to, you will take {genderAssignmentObjective} to the tavern and buy {genderAssignmentObjective} some food and something to drink instead of giving gold. {genderAssignmentSubjectiveCap} accepts your proposal, and the two of you make your way towards the tavern. Once there, you are immediately told by the owner that beggars aren't welcome. You then proceed to tell the owner that {genderAssignmentSubjective} is with you. The owner nods in agreement. Once seated, you order some hot food and a large drink for yourself and the beggar. As you sit there, the two of you naturally begin to chat about various subjects. You learn {genderAssignmentSubjective}'s story and why {genderAssignmentSubjective} is in the situation {genderAssignmentSubjective} is currently in. After a few minutes, you must depart as you have other matters to attend to. The two of you say your goodbyes, and you tell the owner that the beggar is to be allowed to finish {genderAssignmentObjective} meal and you will pay, so {genderAssignmentSubjective} will have one night to sleep. The owner agrees, and you leave." />
+    <string id="BeggarBegging_Event_Choice_4B" text="Feeling charitable, you offer to treat {genderAssignmentObjective} to a meal and drink at the tavern, rather than giving gold. {genderAssignmentSubjectiveCap} gratefully accepts, and together you head to the tavern. Upon arrival, the tavern owner initially objects to the beggar's presence but relents when you explain {genderAssignmentSubjective} is your guest. After ordering a hearty meal and drinks, you engage in conversation, learning about {genderAssignmentSubjective}'s life and current predicament. Time flies, and soon you have to leave for other commitments. Before departing, you ensure the tavern owner allows the beggar to complete the meal and stay the night, at your expense." />
+    <string id="BeggarBegging_Event_Choice_4C" text="Today, your generosity leads you to offer {genderAssignmentObjective} a meal at the tavern instead of gold. {genderAssignmentSubjectiveCap} happily agrees, and you both set off. At the tavern, the owner hesitates to welcome a beggar, but you assert that {genderAssignmentSubjective} is your companion. Settled in, you order warm meals and drinks, and begin to converse, uncovering {genderAssignmentSubjective}'s backstory and struggles. As time to leave nears, you instruct the tavern owner to let the beggar finish the meal and provide a night's lodging, all on your tab." />
+    <string id="BeggarBegging_Event_Choice_4D" text="In a generous mood, you suggest taking {genderAssignmentObjective} for a meal at the tavern, offering companionship over gold. {genderAssignmentSubjectiveCap} eagerly agrees, and you both go to the tavern. Initially, the tavern owner disapproves of the beggar's presence, but you persuade them that {genderAssignmentSubjective} is with you. While dining and drinking, you delve into {genderAssignmentSubjective}'s story, understanding more about {genderAssignmentSubjective}'s hardships. When it's time to leave, you arrange with the owner for the beggar to finish their meal and spend the night, assuring payment for both." />
+    <string id="BeggarBegging_Event_Choice_4E" text="With a heart full of kindness, you decide to provide {genderAssignmentObjective} with a tavern meal instead of gold. {genderAssignmentSubjectiveCap} accepts with gratitude, and you head to the local tavern. The tavern owner initially balks at a beggar's entry but acquiesces when you intervene. Over a meal and drinks, you engage in meaningful dialogue, learning about {genderAssignmentSubjective}'s circumstances. As you prepare to leave, you speak to the tavern owner, ensuring that the beggar can finish their meal and have a place to sleep for the night, all covered by you." />
+
+    <string id="BeggarBegging_Event_Choice_5A" text="You tell {genderAssignmentObjective} that following you will result in receiving 150 gold. Initially, {genderAssignmentSubjectiveCap} regards you with suspicion but eventually acquiesces, intrigued by the offer. Leading {genderAssignmentObjective} into a deserted alley, you ensure no one is around to witness what follows. With a swift and powerful punch, you knock the beggar to the ground. {genderAssignmentSubjectiveCap} curls up, trying to protect {genderAssignmentObjective}self, as you unleash a flurry of punches, kicks, and shoves. The assault is relentless and merciless, continuing for several long, brutal minutes. When you finally cease, {genderAssignmentSubjective} is lifeless. As you prepare to leave the scene, you're met by a group of five guards. They question your actions, to which you reply candidly, expressing your disdain for beggars and ordering them to dispose of the body. The guards, showing visible reluctance and discomfort, comply with your order. One of them hoists the lifeless body over their shoulder. As you step out of the alley, a sense of exhilaration from your actions courses through you, mixed with a sense of power and control." />
+    <string id="BeggarBegging_Event_Choice_5B" text="You cleverly persuade {genderAssignmentObjective} to accompany you with the promise of 150 gold coins. Despite {genderAssignmentSubjective}'s initial hesitation and suspicion, the allure of the gold sways {genderAssignmentSubjective}. You lead {genderAssignmentObjective} into a quiet, secluded alley, making sure no one is nearby to intervene. Once isolated, you launch a sudden and vicious attack on the unsuspecting beggar. {genderAssignmentSubjectiveCap} falls to the ground, struggling to defend {genderAssignmentObjective}self from your relentless and ferocious onslaught. Your fists and feet move in a blur, each blow delivered with calculated brutality. After several agonizing minutes, the beggar lies motionless on the ground, a victim of your unfettered rage. As you exit the alley, you are immediately confronted by a patrol of five guards. Without hesitation, you admit to your actions and express your desire to rid the town of beggars. You coldly command them to dispose of the body. Despite their visible discomfort and moral conflict, they obey your orders. Watching the guard carry the body away, you feel a rush of adrenaline and a sense of twisted satisfaction." />
+    <string id="BeggarBegging_Event_Choice_5C" text="You tell {genderAssignmentObjective} that following you will result in receiving 150 gold. Initially, {genderAssignmentSubjectiveCap} regards you with suspicion but eventually acquiesces, intrigued by the offer. Leading {genderAssignmentObjective} into a deserted alley, you ensure no one is around to witness what follows. With a swift and powerful punch, you knock the beggar to the ground. {genderAssignmentSubjectiveCap} curls up, trying to protect {genderAssignmentObjective}self, as you unleash a flurry of punches, kicks, and shoves. The assault is relentless and merciless, continuing for several long, brutal minutes. When you finally cease, {genderAssignmentSubjective} is lifeless. As you prepare to leave the scene, you're met by a group of five guards. They question your actions, to which you reply candidly, expressing your disdain for beggars and ordering them to dispose of the body. The guards, showing visible reluctance and discomfort, comply with your order. One of them hoists the lifeless body over their shoulder. As you step out of the alley, a sense of exhilaration from your actions courses through you, mixed with a sense of power and control." />
+    <string id="BeggarBegging_Event_Choice_5D" text="With a manipulative charm, you lure {genderAssignmentObjective} with the lucrative offer of 150 gold coins. Despite {genderAssignmentSubjective}'s initial mistrust, the prospect of such wealth proves too tempting, and {genderAssignmentSubjectiveCap} cautiously follows you. You lead {genderAssignmentObjective} to an obscure alley, far from prying eyes, where you swiftly turn violent. You strike the beggar with a powerful blow that sends {genderAssignmentObjective} crashing to the ground. As {genderAssignmentSubjectiveCap} tries to shield {genderAssignmentObjective}self, you continue your assault with an unbridled ferocity. The beggar's feeble attempts to protect {genderAssignmentObjective}self are no match for your ruthless aggression. After several minutes of continuous abuse, the beggar lies still, life extinguished by your relentless onslaught. As you exit the alley, a group of five guards confronts you, inquiring about the disturbance. You openly admit to your actions, declaring your distaste for beggars and commanding the guards to dispose of the body. Despite their apparent unease, the guards comply with your order, one of them shouldering the responsibility of carrying the deceased. You leave the alley, a complex mix of exhilaration and power washing over you, your actions leaving an indelible mark on your psyche." />
+    <string id="BeggarBegging_Event_Choice_5E" text="With a blend of cunning and generosity, you deceive {genderAssignmentObjective} with an offer of 150 gold, convincing {genderAssignmentSubjective} to follow you. {genderAssignmentSubjectiveCap} cautiously agrees, lured by the promise of the gold. You take {genderAssignmentObjective} to a remote alley, ensuring no witnesses are present. Once isolated, you unleash a brutal assault on the beggar, delivering a crushing punch that sends {genderAssignmentObjective} reeling to the ground. {genderAssignmentSubjectiveCap} tries in vain to defend {genderAssignmentObjective}self as you continue your merciless beating. The beggar's struggles gradually cease as your blows continue unabated. When the violence ends, {genderAssignmentSubjective} lies lifeless on the alley floor. As you step out, you're met by a group of five guards who question your actions. Unabashedly, you confess to the murder, explaining your intention to rid the town of beggars. You then command the guards to remove the body, asserting your authority. The guards, visibly disturbed, follow your orders. One of them solemnly lifts the lifeless body, carrying it away. As you walk away from the alley, you feel an intense rush of power and dominance, the act of taking a life leaving a profound and dark impact on you." />
+
+    <string id="BeggarBegging_Event_Msg_1A" text="{heroName} told a beggar to f**k off." />
+    <string id="BeggarBegging_Event_Msg_1B" text="{heroName} harshly dismissed a beggar with a curt 'f**k off.'" />
+    <string id="BeggarBegging_Event_Msg_1C" text="{heroName} bluntly sent a beggar away, telling them to f**k off." />
+    <string id="BeggarBegging_Event_Msg_1D" text="{heroName} brusquely told a beggar to f**k off, refusing any interaction." />
+    <string id="BeggarBegging_Event_Msg_1E" text="{heroName} had no patience for a beggar and curtly told them to f**k off." />
+
+    <string id="BeggarBegging_Event_Msg_2A" text="{heroName} gave the beggar 5 gold." />
+    <string id="BeggarBegging_Event_Msg_2B" text="{heroName} handed 5 gold to the beggar." />
+    <string id="BeggarBegging_Event_Msg_2C" text="{heroName} generously gave 5 gold coins to the beggar." />
+    <string id="BeggarBegging_Event_Msg_2D" text="{heroName} offered the beggar a gift of 5 gold." />
+    <string id="BeggarBegging_Event_Msg_2E" text="{heroName} presented 5 gold to the grateful beggar." />
+
+    <string id="BeggarBegging_Event_Msg_3A" text="{heroName} gave the beggar 100 gold." />
+    <string id="BeggarBegging_Event_Msg_3B" text="{heroName} generously bestowed 100 gold upon the beggar." />
+    <string id="BeggarBegging_Event_Msg_3C" text="{heroName} handed over 100 gold coins to the beggar." />
+    <string id="BeggarBegging_Event_Msg_3D" text="{heroName} presented the beggar with a sum of 100 gold." />
+    <string id="BeggarBegging_Event_Msg_3E" text="{heroName} graciously offered 100 gold to the beggar." />
+
+    <string id="BeggarBegging_Event_Msg_4A" text="{heroName} took the beggar to get some food." />
+    <string id="BeggarBegging_Event_Msg_4B" text="{heroName} escorted the beggar to a meal." />
+    <string id="BeggarBegging_Event_Msg_4C" text="{heroName} led the beggar to dine." />
+    <string id="BeggarBegging_Event_Msg_4D" text="{heroName} accompanied the beggar for a food treat." />
+    <string id="BeggarBegging_Event_Msg_4E" text="{heroName} guided the beggar to a place for food." />
+
+    <string id="BeggarBegging_Event_Msg_5A" text="{heroName} killed an innocent beggar." />
+    <string id="BeggarBegging_Event_Msg_5B" text="{heroName} took the life of a defenseless beggar." />
+    <string id="BeggarBegging_Event_Msg_5C" text="{heroName} ended the life of a hapless beggar." />
+    <string id="BeggarBegging_Event_Msg_5D" text="{heroName} fatally attacked an unsuspecting beggar." />
+    <string id="BeggarBegging_Event_Msg_5E" text="{heroName} committed the act of killing a beggar." />
+
 
 
     <!--
@@ -730,6 +805,158 @@
     <string id="ViolatedGirl_Event_Msg_3" text="{heroName} didn't buy the girl's story." />
     <string id="ViolatedGirl_Event_Msg_4" text="There are rumors that {heroName} killed a young girl to keep a secret." />
     <string id="ViolatedGirl_Event_Msg_5" text="There are rumors that {heroName} has done something unforgivable." />
+
+
+
+
+    <!--
+    ******************************************************************************
+    *                                                                            *
+    *                           Fleeing Fate Event                              *
+    *                                                                            *
+    ******************************************************************************
+    -->
+
+    <string id="FleeingFate_Skill_Check_Disable_Appended_Text" text="**Les tests de compétence sont désactivés**"/>
+    <string id="FleeingFate_Roguery_Appended_Text" text="[Intendance - niveau {minStewardLevel}]"/>
+    <string id="FleeingFate_Roguery_Appended_Text" text="[Banditisme - niveau {minRogueryLevel}]"/>
+    <string id="FleeingFate_Event_Option_1" text="L'aider"/>
+    <string id="FleeingFate_Event_Option_1_Hover" text="Essayez de l'aider à quitter la ville."/>
+    <string id="FleeingFate_Event_Option_2" text="La convaincre"/>
+    <string id="FleeingFate_Event_Option_2_Hover" text="Rappelez-lui son devoir en tant que noble."/>
+    <string id="FleeingFate_Event_Option_3" text="Des mots de sagesse"/>
+    <string id="FleeingFate_Event_Option_3_Hover" text="Essayez de la faire choisir par elle-même."/>
+    <string id="FleeingFate_Event_Option_4" text="[Intendance] Négocier"/>
+    <string id="FleeingFate_Event_Option_4_Hover" text="Essayez de parler à sa famille.\n{stewardAppendedText}"/>
+    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La battre"/>
+    <string id="FleeingFate_Event_Option_5_Hover" text="Assurez-vous qu'elle comprenne le message.\n{rogueryAppendedText}"/>
+    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La tuer"/>
+    <string id="FleeingFate_Event_Option_5_Hover" text="Un problème de moins.\n{rogueryAppendedText}"/>
+    <string id="FleeingFate_Event_Button_Text_1" text="Choisir"/>
+    <string id="FleeingFate_Event_Button_Text_2" text="Terminé"/>
+    <string id="FleeingFate_Title_A" text="Fuir le Destin"/>
+    <string id="FleeingFate_Title_B" text="Évasion de l'Esclavage"/>
+    <string id="FleeingFate_Title_C" text="La Mariée Réticente"/>
+    <string id="FleeingFate_Title_D" text="Dilemme Noble"/>
+    <string id="FleeingFate_Title_E" text="Liée par le Devoir"/>
+    <string id="FleeingFate_Title_F" text="Un Cri de Liberté"/>
+    <string id="FleeingFate_Title_G" text="Briser les Chaînes"/>
+    <string id="FleeingFate_Title_H" text="Contre les Fiançailles"/>
+    <string id="FleeingFate_Noblewoman_Name_A" text="Dame Cyrenia"/>
+    <string id="FleeingFate_Noblewoman_Name_B" text="Dame Elithina"/>
+    <string id="FleeingFate_Noblewoman_Name_C" text="Dame Galereth"/>
+    <string id="FleeingFate_Noblewoman_Name_D" text="Dame Ysmera"/>
+    <string id="FleeingFate_Noblewoman_Name_E" text="Dame Thalica"/>
+    <string id="FleeingFate_Noblewoman_Name_F" text="Dame Venalia"/>
+    <string id="FleeingFate_Noblewoman_Name_G" text="Dame Rhydena"/>
+    <string id="FleeingFate_Noblewoman_Name_H" text="Dame Esmereth"/>
+    <string id="FleeingFate_Noblewoman_Name_I" text="Dame Lythania"/>
+    <string id="FleeingFate_Noblewoman_Name_J" text="Dame Saralia"/>
+    <string id="FleeingFate_Event_Desc_A" text="À la lumière tamisée du soir, {noblewomanName}, une noble femme en détresse,"/>
+    <string id="FleeingFate_Event_Desc_B" text="Alors que la nuit tombe sur {currentSettlement}, vous êtes approché par {noblewomanName},"/>
+    <string id="FleeingFate_Event_Desc_C" text="Sous le crépuscule de la ville, {noblewomanName}, une noble femme, cherche votre aide."/>
+    <string id="FleeingFate_Event_Desc_D" text="Dans le calme du soir en ville, {noblewomanName}, accablée par sa lignée noble,"/>
+    <string id="FleeingFate_Event_Desc_E" text="Alors que les ombres du soir s'étendent sur la ville, un appel désespéré de {noblewomanName},"/>
+    <string id="FleeingFate_Event_Choice_1AA" text="Vous choisissez les toits pour leur point de vue et leur relative discrétion."/>
+    <string id="FleeingFate_Event_Choice_1AB" text="Dans cette évasion méticuleusement planifiée, vous organisez un départ dans la charrette d'un marchand,"/>
+    <string id="FleeingFate_Event_Choice_1AC" text="En synchronisant l'évasion avec le festival annuel de la ville, vous et {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_1AD" text="Le passage souterrain oublié, vestige des temps anciens, sert de"/>
+    <string id="FleeingFate_Event_Choice_1AE" text="La rivière, alliée silencieuse de votre plan, promet une voie d'évasion discrète."/>
+    <string id="FleeingFate_Event_Choice_1BA" text="Votre plan de traverser la ville par les toits commence bien,"/>
+    <string id="FleeingFate_Event_Choice_1BB" text="Déguisé en simple marchand, vous conduisez la charrette avec {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_1BC" text="Le festival vibrant, rempli de musique et de danse, semble parfait"/>
+    <string id="FleeingFate_Event_Choice_1BD" text="Le passage souterrain ancien, autrefois un phare d'espoir, se transforme en piège."/>
+    <string id="FleeingFate_Event_Choice_1BE" text="Le plan de fuite par la rivière commence bien alors que vous ramez le petit bateau"/>
+    <string id="FleeingFate_Event_Choice_2AA" text="Dans un coin tranquille de la ville, vous parlez avec {noblewomanName}, offrant"/>
+    <string id="FleeingFate_Event_Choice_2AB" text="Vous rencontrez {noblewomanName} dans un endroit isolé et discutez de l'importance de"/>
+    <string id="FleeingFate_Event_Choice_2AC" text="Sous les lumières tamisées de la ville, vous encouragez {noblewomanName} à trouver la force"/>
+    <string id="FleeingFate_Event_Choice_2AD" text="Dans une conversation approfondie avec {noblewomanName}, vous soulignez le pouvoir qu'elle"/>
+    <string id="FleeingFate_Event_Choice_2AE" text="Au cours de votre conversation, vous mettez en avant les opportunités de croissance personnelle"/>
+    <string id="FleeingFate_Event_Choice_2BA" text="Dans la lumière tamisée de la ville, vous rencontrez {noblewomanName} et essayez de"/>
+    <string id="FleeingFate_Event_Choice_2BB" text="Alors que vous vous asseyez avec {noblewomanName} dans un endroit calme et isolé, vous discutez"/>
+    <string id="FleeingFate_Event_Choice_2BC" text="Vous tentez d'inspirer {noblewomanName} avec des mots sur la recherche de la force intérieure"/>
+    <string id="FleeingFate_Event_Choice_2BD" text="Dans votre conversation avec {noblewomanName}, vous soulignez l'influence qu'elle peut"/>
+    <string id="FleeingFate_Event_Choice_2BE" text="Vous parlez à {noblewomanName} des opportunités de croissance personnelle"/>
+    <string id="FleeingFate_Event_Choice_3AA" text="Votre décision de ne pas intervenir est accompagnée d'un discours réconfortant sur"/>
+    <string id="FleeingFate_Event_Choice_3AB" text="Bien que vous refusiez une assistance directe, vous passez du temps à inculquer un sens"/>
+    <string id="FleeingFate_Event_Choice_3AC" text="Alors que vous refusez d'aider {noblewomanName} à s'échapper, vous l'encouragez à"/>
+    <string id="FleeingFate_Event_Choice_3AD" text="Vous choisissez de ne pas aider {noblewomanName} à fuir mais vous la guidez vers"/>
+    <string id="FleeingFate_Event_Choice_3AE" text="En refusant sa demande d'aide, vous vous concentrez sur le développement de son sens de"/>
+    <string id="FleeingFate_Event_Choice_3BA" text="Dans votre conversation avec {noblewomanName}, vous exprimez votre décision de ne pas"/>
+    <string id="FleeingFate_Event_Choice_3BB" text="Votre refus de l'aider à s'échapper, associé à un discours sur l'autonomie,"/>
+    <string id="FleeingFate_Event_Choice_3BC" text="Lorsque vous refusez d'aider {noblewomanName}, visant à l'inspirer à trouver sa propre force,"/>
+    <string id="FleeingFate_Event_Choice_3BD" text="Alors que vous suggérez à {noblewomanName} de trouver de la force en elle-même, elle"/>
+    <string id="FleeingFate_Event_Choice_3BE" text="Votre conseil bien intentionné sur l'autonomie et la force intérieure tombe dans l'oreille d'un sourd"/>
+    <string id="FleeingFate_Event_Choice_4AA" text="Vous organisez une rencontre avec la famille de {noblewomanName} sous prétexte de"/>
+    <string id="FleeingFate_Event_Choice_4AB" text="Votre connaissance approfondie des maisons nobles et de leurs alliances vous conduit à"/>
+    <string id="FleeingFate_Event_Choice_4AC" text="Votre approche de la négociation implique une plongée profonde dans le réseau social de la noblesse."/>
+    <string id="FleeingFate_Event_Choice_4AD" text="Dans votre rencontre avec la famille de {noblewomanName}, vous présentez un vieil argument"/>
+    <string id="FleeingFate_Event_Choice_4AE" text="Dans votre négociation avec la famille de {noblewomanName}, vous mettez en avant l'importance"/>
+    <string id="FleeingFate_Event_Choice_4BA" text="Lors d'une session de négociation formelle avec la famille de {noblewomanName}, vous exposez méthodiquement"/>
+    <string id="FleeingFate_Event_Choice_4BB" text="Vous approchez la famille de {noblewomanName} avec confiance, proposant une alternative"/>
+    <string id="FleeingFate_Event_Choice_4BC" text="Dans l'intention d'offrir une alternative mutuellement bénéfique, vous présentez votre"/>
+    <string id="FleeingFate_Event_Choice_4BD" text="Vous entamez la négociation avec une stratégie claire, plaidant pour un mariage"/>
+    <string id="FleeingFate_Event_Choice_4BE" text="Avec une vision d'une union progressive et bénéfique, vous rencontrez"/>
+    <string id="FleeingFate_Event_Choice_5A" text="Dans une partie isolée et faiblement éclairée de la ville, vous confrontez {noblewomanName}"/>
+    <string id="FleeingFate_Event_Choice_5B" text="Vous attaquez {noblewomanName} dans un endroit isolé, où votre explosion de violence"/>
+    <string id="FleeingFate_Event_Choice_5C" text="Dans un bâtiment abandonné, vous soumettez {noblewomanName} à une nuit de tortures sans fin"/>
+    <string id="FleeingFate_Event_Choice_5D" text="Vous attirez {noblewomanName} dans un endroit où vous avez mis en scène une démonstration brutale"/>
+    <string id="FleeingFate_Event_Choice_5E" text="Vous orchestrez l'enlèvement de {noblewomanName} vers un lieu caché où elle"/>
+    <string id="FleeingFate_Event_Choice_6A" text="Au fond de la nature isolée, vous menez {noblewomanName} sous le faux prétexte de la sauver"/>
+    <string id="FleeingFate_Event_Choice_6B" text="Dans le silence effrayant des ruines anciennes, {noblewomanName} fait face à l'horrible"/>
+    <string id="FleeingFate_Event_Choice_6C" text="Au bord de la rivière, la lueur de la lune projette une lumière sinistre alors que vous exécutez votre plan"/>
+    <string id="FleeingFate_Event_Choice_6D" text="L'entrepôt abandonné devient une chambre d'horreurs alors que vous révélez votre nature monstrueuse"/>
+    <string id="FleeingFate_Event_Choice_6E" text="Dans une cave humide et oubliée, vous amenez {noblewomanName} à faire face à un destin pire que la mort"/>
+    <string id="FleeingFate_Event_Msg_1AA" text="{heroName} a aidé {noblewomanName} à s'échapper et a reçu {goldReward} pièces d'or en récompense."/>
+    <string id="FleeingFate_Event_Msg_1AB" text="{heroName} a réussi à aider {noblewomanName} à fuir la ville, gagnant {goldReward} pièces d'or pour l'acte."/>
+    <string id="FleeingFate_Event_Msg_1AC" text="{heroName} a orchestré l'évasion de {noblewomanName}, étant compensé par {goldReward} pièces d'or pour ses efforts."/>
+    <string id="FleeingFate_Event_Msg_1AD" text="{heroName} a assuré le départ en sécurité de {noblewomanName} de la ville et a été récompensé par {goldReward} pièces d'or."/>
+    <string id="FleeingFate_Event_Msg_1AE" text="{heroName} a facilité l'évasion réussie de {noblewomanName} et a reçu {goldReward} pièces d'or en signe de gratitude."/>
+    <string id="FleeingFate_Event_Msg_1BA" text="La tentative de {heroName} d'aider {noblewomanName} à s'échapper a été déjouée, échappant de peu à la capture."/>
+    <string id="FleeingFate_Event_Msg_1BB" text="{heroName} a échoué à aider {noblewomanName} à s'échapper, échappant de justesse aux griffes des gardes."/>
+    <string id="FleeingFate_Event_Msg_1BC" text="{heroName} n'a pas pu sécuriser la liberté de {noblewomanName}, devant fuir seul alors que le plan échouait."/>
+    <string id="FleeingFate_Event_Msg_1BD" text="Le plan de {heroName} pour aider {noblewomanName} à fuir a été déjoué, forçant une retraite les mains vides."/>
+    <string id="FleeingFate_Event_Msg_1BE" text="{heroName} a tenté d'assister {noblewomanName} dans son évasion, mais le plan a échoué, entraînant une fuite étroite."/>
+    <string id="FleeingFate_Event_Msg_2AA" text="{heroName} a persuadé {noblewomanName} de rester, renforçant sa résolution et sa perspective."/>
+    <string id="FleeingFate_Event_Msg_2AB" text="{heroName} a conseillé {noblewomanName}, menant à sa détermination renouvelée et à l'espoir."/>
+    <string id="FleeingFate_Event_Msg_2AC" text="Les conseils de {heroName} ont conduit {noblewomanName} sur un chemin de résilience et d'acceptation."/>
+    <string id="FleeingFate_Event_Msg_2AD" text="{heroName} a influencé {noblewomanName} à s'adapter, favorisant sa croissance et sa force."/>
+    <string id="FleeingFate_Event_Msg_2AE" text="{heroName} a guidé {noblewomanName}, transformant son dilemme en une nouvelle opportunité."/>
+    <string id="FleeingFate_Event_Msg_2BA" text="La tentative de {heroName} de persuader {noblewomanName} a échoué, la laissant découragée."/>
+    <string id="FleeingFate_Event_Msg_2BB" text="{heroName} n'a pas réussi à convaincre {noblewomanName}, qui est restée opposée à sa situation."/>
+    <string id="FleeingFate_Event_Msg_2BC" text="Les conseils de {heroName} ont été rejetés par {noblewomanName}, approfondissant son désespoir."/>
+    <string id="FleeingFate_Event_Msg_2BD" text="Les efforts de {heroName} pour convaincre {noblewomanName} ont été vains, la laissant non résolue."/>
+    <string id="FleeingFate_Event_Msg_2BE" text="Les conseils de {heroName} à {noblewomanName} n'ont pas réussi à altérer son sombre avenir."/>
+    <string id="FleeingFate_Event_Msg_3AA" text="Les encouragements de {heroName} ont conduit {noblewomanName} à trouver sa propre force, devenant une alliée précieuse."/>
+    <string id="FleeingFate_Event_Msg_3AB" text="{heroName} a inspiré {noblewomanName} à l'autonomie, résultant en son amitié influente."/>
+    <string id="FleeingFate_Event_Msg_3AC" text="Les conseils de {heroName} ont renforcé {noblewomanName}, qui a tracé un chemin de succès et d'alliance."/>
+    <string id="FleeingFate_Event_Msg_3AD" text="{heroName} a motivé {noblewomanName} à l'indépendance, la menant à devenir une alliée de soutien."/>
+    <string id="FleeingFate_Event_Msg_3AE" text="Les conseils de {heroName} ont aidé {noblewomanName} à s'émanciper, assurant une future alliée."/>
+    <string id="FleeingFate_Event_Msg_3BA" text="Le refus de {heroName} d'aider a laissé {noblewomanName} amère, entraînant des rumeurs nuisibles."/>
+    <string id="FleeingFate_Event_Msg_3BB" text="Le refus d'aide de {heroName} a conduit {noblewomanName} à ressentir du ressentiment, provoquant des ragots défavorables."/>
+    <string id="FleeingFate_Event_Msg_3BC" text="{heroName} a refusé d'assister {noblewomanName}, qui a ensuite répandu des paroles dénigrantes."/>
+    <string id="FleeingFate_Event_Msg_3BD" text="Le manque de soutien de {heroName} a causé l'hostilité de {noblewomanName}, entraînant des ragots nuisibles."/>
+    <string id="FleeingFate_Event_Msg_3BE" text="Le rejet de {heroName} a rendu {noblewomanName} hostile, entraînant des représailles nuisibles."/>
+    <string id="FleeingFate_Event_Msg_4AA" text="Les négociations de {heroName} ont assuré une meilleure alliance pour {noblewomanName}, gagnant sa gratitude et {goldReward} pièces d'or."/>
+    <string id="FleeingFate_Event_Msg_4AB" text="{heroName} a négocié avec succès une alliance plus appropriée pour {noblewomanName}, récompensé par {goldReward} pièces d'or."/>
+    <string id="FleeingFate_Event_Msg_4AC" text="Les compétences diplomatiques de {heroName} ont trouvé un avenir plus heureux pour {noblewomanName}, gagnant {goldReward} pièces d'or."/>
+    <string id="FleeingFate_Event_Msg_4AD" text="{heroName} a arrangé un mariage favorable pour {noblewomanName}, recevant {goldReward} pièces d'or pour ses efforts."/>
+    <string id="FleeingFate_Event_Msg_4AE" text="{heroName} a négocié un meilleur prétendant pour {noblewomanName}, récompensé par {goldReward} pièces d'or."/>
+    <string id="FleeingFate_Event_Msg_4BA" text="La négociation de {heroName} pour {noblewomanName} a échoué, entraînant leur expulsion."/>
+    <string id="FleeingFate_Event_Msg_4BB" text="{heroName} n'a pas réussi à convaincre la famille de {noblewomanName}, résultant en une expulsion."/>
+    <string id="FleeingFate_Event_Msg_4BC" text="Les efforts de {heroName} pour trouver un nouveau prétendant pour {noblewomanName} ont été repoussés."/>
+    <string id="FleeingFate_Event_Msg_4BD" text="La proposition de {heroName} pour {noblewomanName} a été rejetée, se terminant par une éjection."/>
+    <string id="FleeingFate_Event_Msg_4BE" text="{heroName} a fait face à un refus pour re-matcher {noblewomanName}, entraînant leur retrait."/>
+    <string id="FleeingFate_Event_Msg_5A" text="{heroName} a contraint la soumission de {noblewomanName} par des moyens impitoyables, assurant son accord forcé."/>
+    <string id="FleeingFate_Event_Msg_5B" text="{heroName} a utilisé des mesures extrêmes pour briser la défiance de {noblewomanName}, ne laissant aucune autre option que la conformité."/>
+    <string id="FleeingFate_Event_Msg_5C" text="{heroName} a forcé {noblewomanName} à se soumettre par une démonstration de pouvoir et d'intimidation écrasante."/>
+    <string id="FleeingFate_Event_Msg_5D" text="{heroName} a assuré l'acquiescement réticent de {noblewomanName} par une démonstration de force harassante."/>
+    <string id="FleeingFate_Event_Msg_5E" text="{heroName} a soumis {noblewomanName} avec une combinaison impitoyable de domination mentale et physique."/>
+    <string id="FleeingFate_Event_Msg_6A" text="{heroName} a orchestré un destin sombre pour {noblewomanName}, assurant sa fin tragique et non détectée."/>
+    <string id="FleeingFate_Event_Msg_6B" text="{heroName} a mis en œuvre un plan impitoyable, entraînant la disparition permanente et introuvable de {noblewomanName}."/>
+    <string id="FleeingFate_Event_Msg_6C" text="{heroName} a cruellement assuré que le destin de {noblewomanName} soit scellé dans le secret, ne laissant aucune trace derrière."/>
+    <string id="FleeingFate_Event_Msg_6D" text="Les actions de {heroName} ont entraîné la disparition silencieuse de {noblewomanName}, sa fin enveloppée de ténèbres."/>
+    <string id="FleeingFate_Event_Msg_6E" text="{heroName} a orchestré une fin harassante pour {noblewomanName}, avec ses derniers moments perdus dans l'oubli."/>
 
 
 

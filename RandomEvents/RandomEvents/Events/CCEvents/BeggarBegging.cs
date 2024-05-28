@@ -556,7 +556,7 @@ namespace Bannerlord.RandomEvents.Events.CCEvents
             private static readonly List<string> eventChoice5= new List<string>
             {
                 //Event Choice 5A
-                "{=BeggarBegging_Event_Choice_5}You tell {genderAssignmentObjective} that following you will result in " +
+                "{=BeggarBegging_Event_Choice_5A}You tell {genderAssignmentObjective} that following you will result in " +
                 "receiving 150 gold. Initially, {genderAssignmentSubjectiveCap} regards you with suspicion but eventually " +
                 "acquiesces, intrigued by the offer. Leading {genderAssignmentObjective} into a deserted alley, you ensure " +
                 "no one is around to witness what follows. With a swift and powerful punch, you knock the beggar to the " +
@@ -584,7 +584,7 @@ namespace Bannerlord.RandomEvents.Events.CCEvents
                 "away, you feel a rush of adrenaline and a sense of twisted satisfaction.",
                 
                 //Event Choice 4C
-                "{=BeggarBegging_Event_Choice_5}You tell {genderAssignmentObjective} that following you will result in " +
+                "{=BeggarBegging_Event_Choice_5C}You tell {genderAssignmentObjective} that following you will result in " +
                 "receiving 150 gold. Initially, {genderAssignmentSubjectiveCap} regards you with suspicion but eventually " +
                 "acquiesces, intrigued by the offer. Leading {genderAssignmentObjective} into a deserted alley, you " +
                 "ensure no one is around to witness what follows. With a swift and powerful punch, you knock the beggar " +
