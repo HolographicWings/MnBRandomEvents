@@ -1239,6 +1239,95 @@
 
 
 
+    <!--
+    ******************************************************************************
+    *                                                                            *
+    *                                 Duel Event                                 *
+    *                                                                            *
+    ******************************************************************************
+    -->
+
+    <string id="Duel_Skill_Check_Disable_Appended_Text" text="**Skill checks are disabled**" />
+    <string id="Duel_Roguery_Appended_Text" text="[Roguery - lvl {minRogueryLevel}]" />
+    <string id="Duel_TwoHanded_Appended_Text" text="[Two-Handed - lvl {minTwoHandedLevel}]" />
+
+    <string id="Duel_Event_Option_1" text="Decline his challenge" />
+    <string id="Duel_Event_Option_1_Hover" text="No point in accepting." />
+    <string id="Duel_Event_Option_2" text="Accept his challenge" />
+    <string id="Duel_Event_Option_2_Hover" text="Teach him a lesson." />
+    <string id="Duel_Event_Option_3" text="[Two-Handed] Kill him" />
+    <string id="Duel_Event_Option_3_Hover" text="Kill him in combat.\n{twoHandedAppendedText}" />
+    <string id="Duel_Event_Option_4" text="[Roguery] Trick him" />
+    <string id="Duel_Event_Option_4_Hover" text="Kill him by tricking him.\n{rogueryAppendedText}" />
+
+    <string id="Duel_Event_Button_Text_1" text="Choose" />
+    <string id="Duel_Event_Button_Text_2" text="Done" />
+
+    <string id="Duel_Title_A" text="Duel of Fates" />
+    <string id="Duel_Title_B" text="The Challenger's Call" />
+    <string id="Duel_Title_C" text="Clash of Steel" />
+    <string id="Duel_Title_D" text="The Duelist's Gauntlet" />
+    <string id="Duel_Title_E" text="Honor's Contest" />
+    <string id="Duel_Title_F" text="Showdown of Valor" />
+    <string id="Duel_Title_G" text="The Face-Off" />
+    <string id="Duel_Title_H" text="Confrontation" />
+
+    <string id="Duel_Event_Desc_A" text="As your party rests near {closestSettlement}, a young man seeks you out for a challenge. His intent is to duel, inspired by your renowned arena exploits across Calradia. Observing him, you realize his inexperience would make for an effortless victory. This moment could serve as a lesson for him, or you could simply refuse his request. The choice stands before you: accept the duel and teach him, or decline and walk away. What will be your decision?" />
+    <string id="Duel_Event_Desc_B" text="Near {closestSettlement}, while your party takes a break, a determined young man approaches, seeking a duel. He's motivated by tales of your legendary battles in Calradia's arenas. Assessing him, you note his lack of skill, suggesting an easy win. You ponder: should you use this duel as a teaching moment, or dismiss his challenge altogether? The decision is yours to either engage in the duel and impart a lesson, or to turn down his bold challenge." />
+    <string id="Duel_Event_Desc_C" text="Your party, pausing near {closestSettlement}, is approached by an ambitious young man demanding a duel. He's eager to test his mettle against you, emboldened by your famed arena victories throughout Calradia. You quickly gauge that he's no match for you. Now, you must decide: seize this chance to educate him in combat, or reject his challenge outright. Will you accept and teach him a valuable lesson, or deny and spare him the defeat?" />
+    <string id="Duel_Event_Desc_D" text="While encamped by {closestSettlement}, a youthful challenger emerges, intent on dueling you. Inspired by your celebrated arena triumphs in Calradia, he boldly steps forward. A quick assessment reveals his inferior skills, promising an easy duel. You're now faced with a choice: accept his duel and provide a practical lesson, or decline and leave him untested. Do you take up his challenge to instruct, or refuse to engage and move on?" />
+    <string id="Duel_Event_Desc_E" text="In the vicinity of {closestSettlement}, during a brief rest, a young man confronts you, eager for a duel. His challenge stems from your well-known successes in the arenas of Calradia. You can tell at a glance that he's inexperienced, suggesting a straightforward victory for you. The decision lies with you: to accept his duel as an opportunity to teach, or to decline and avoid the confrontation. Will you opt to duel and educate, or dismiss his request and abstain?" />
+
+    <string id="Duel_Event_Choice_1A" text="You inform the young man that you decline his challenge, certain of your easy victory. Seizing the chance, you offer him some wisdom. You advise against recklessly challenging far more skilled opponents and suggest that real combat skills are honed in a city garrison's training. You recommend he join one to learn properly. Your parting is amicable, with a sense of mutual respect." />
+    <string id="Duel_Event_Choice_1B" text="You gently refuse the challenge, explaining your certain triumph. Taking the opportunity to mentor, you advise him on the dangers of facing vastly superior fighters. You suggest a more prudent path: joining a city garrison for formal combat training. Your counsel is well-received, and you part on friendly terms, leaving him with thoughtful guidance for his future endeavors." />
+    <string id="Duel_Event_Choice_1C" text="You gently refuse the challenge, explaining your certain triumph. Taking the opportunity to mentor, you advise him on the dangers of facing vastly superior fighters. You suggest a more prudent path: joining a city garrison for formal combat training. Your counsel is well-received, and you part on friendly terms, leaving him with thoughtful guidance for his future endeavors." />
+    <string id="Duel_Event_Choice_1D" text="You turn down his challenge, assured of your upper hand in such a duel. You take this moment to offer guidance, counseling him on the perils of challenging those with greater prowess. Advising him to join a city garrison for disciplined training, you part ways amicably, with him nodding in understanding and gratitude for your wise words." />
+    <string id="Duel_Event_Choice_1E" text="Politely, you reject the duel, confident in your superior skills. You seize the chance to mentor him, warning of the folly in challenging highly skilled fighters. Suggesting that joining a city garrison would be a valuable learning experience, you part on friendly terms. He leaves, considering your advice, grateful for the insight you've shared." />
+
+    <string id="Duel_Event_Choice_2A" text="You accept his challenge. Emerging from your tent in full plate armor, you see fear in your opponent's eyes. Your men form a circle for the duel. He's in light leather armor. You pause and get him plate armor. Struggling in the heavy gear, he's clearly inexperienced. As the duel begins, he kneels, begging forgiveness. You anticipated this, so you use the chance to teach him a rough lesson. After a few minutes, he kneels again, having learned his lesson. You assist him out of the armor, offering advice about recklessly challenging skilled opponents. You suggest he trains with a city garrison. The parting is amicable." />
+    <string id="Duel_Event_Choice_2B" text="Agreeing to the duel, you don full plate armor, noticing your opponent's intimidated expression. A circle is formed by your men. His attire is merely light leather. You halt the duel, arranging for him to don plate armor. Inexperienced with the heavy armor, he struggles. When the duel starts, he immediately pleads for mercy. Expecting this, you decide to give him a non-harmful scare. He soon kneels again, lesson learned. Helping him out of the armor, you counsel him on avoiding duels with more experienced fighters and advise training at a city garrison. You part on friendly terms." />
+    <string id="Duel_Event_Choice_2C" text="You accept the challenge, stepping out in full plate armor, which visibly unnerves your adversary. Your men create a circle for the duel, and you notice his simple leather armor. You pause the duel to equip him with plate armor. He's clearly not used to such heavy armor. As the duel commences, he falls, begging for leniency. You use this moment to mildly intimidate him, as expected. He kneels again, having absorbed the lesson. You assist him out of his armor and give him advice on not challenging those more skilled. Recommending training at a nearby city garrison, you part on good terms." />
+    <string id="Duel_Event_Choice_2D" text="Accepting the duel, you appear in full plate armor, causing discernible fear in your challenger. A ring is formed by your men. He wears only light leather armor. You call for a pause to provide him with plate armor. His unfamiliarity with the heavy armor is evident. When the duel starts, he quickly kneels and asks for mercy. Anticipating this, you scare him harmlessly. After a short while, he kneels again, lesson learned. You help him out of the armor, advising him on the risks of challenging skilled fighters, and suggest joining a city garrison for training. The encounter ends amicably." />
+    <string id="Duel_Event_Choice_2E" text="You decide to accept the duel, donning your plate armor, which instills fear in your young challenger. Your men set up a dueling ring. He's in lightweight leather. You interrupt to equip him with plate armor. It's clear he's never worn such heavy armor. As you engage, he kneels down, pleading for forgiveness. You had foreseen this outcome and gently rough him up to teach a lesson. He kneels once more, clearly having learned. You aid him out of the armor and advise him against challenging more experienced individuals, suggesting he train with a garrison. You part on relatively friendly terms." />
+
+    <string id="Duel_Event_Choice_3A" text="You accept his challenge. Emerging in full plate armor, your opponent's fear is evident. A circle is formed by your men. He wears light armor. The duel begins; you quickly advance, and he attempts to dodge. However, he's too slow, and with a swift strike, you decapitate him. His head lands nearby, and your men cheer. You arrange a warrior's funeral pyre for him, respecting his bravery despite his foolishness. A courier is sent to {closestSettlement} to report the death resulting from the duel." />
+    <string id="Duel_Event_Choice_3B" text="Accepting the challenge, you don full plate armor, seeing fear in your adversary's eyes. Your men encircle you both. He's lightly armored. As the duel commences, you charge. He tries evading, but you're too quick. One clean strike, and his head is severed, flying off. Cheers erupt from your men. You command a pyre to honor him as a warrior, acknowledging his courage. You send a messenger to {closestSettlement} to inform them of his duel-induced death." />
+    <string id="Duel_Event_Choice_3C" text="You agree to the duel, clad in heavy plate armor, intimidating your opponent. A large ring is made by your men. He dons light armor. The fight starts; you aggressively move in. His dodge fails, and you swiftly decapitate him, his head rolling away. Your men's cheers fill the air. You order a pyre to be built, honoring his bravery. Despite his mistake in challenging you, you respect his commitment. A courier is dispatched to {closestSettlement} to report the fatal outcome of the duel." />
+    <string id="Duel_Event_Choice_3D" text="Agreeing to the duel, you appear in imposing plate armor, instilling fear in him. Your men form a combat arena. He's under-armored in leather. As the duel initiates, you swiftly close in. He attempts a dodge, but is too slow. In a single motion, you behead him. His head lands at a distance, and your men acclaim your victory. A pyre is prepared for him, a gesture of respect for a warrior. Despite his foolhardiness, you honor his bravery. News of his death is sent to {closestSettlement} via a courier." />
+    <string id="Duel_Event_Choice_3E" text="You take up his duel challenge, clad in your full plate armor. Your opponent visibly trembles. A circular arena is set by your soldiers. He's in mere leather armor. The battle begins, and you advance rapidly. His dodging attempt fails against your speed, and you execute a clean decapitation. His head lands afar as your men cheer triumphantly. Arranging a warrior's funeral pyre, you respect his daring spirit. A courier heads to {closestSettlement} to relay the news of his death due to the duel." />
+
+    <string id="Duel_Event_Choice_4A" text="You accept his challenge. As he turns to leave, you quickly grab a sword and strike him down in one swift move. You strike repeatedly, losing yourself in the moment. Eventually, your men pull you away. The challenger is reduced to a gruesome mix of blood and remains, and you are drenched in blood. You order your men to dispose of the remains in the woods, letting nature erase the evidence. As you pass your men to clean yourself, their eyes reflect fear. This brutal display ensures they'll stay in line, not wanting a similar fate." />
+    <string id="Duel_Event_Choice_4B" text="Accepting the challenge, you swiftly grab a nearby sword as he turns his back. With a rapid, lethal motion, you bring him down. You continue striking, each blow fueled by intensity. Two of your men eventually intervene, pulling you back from the carnage. What remains of the challenger is a horrific sight of blood and torn flesh. You command your men to hide the body in the forest, allowing wildlife to obscure any traces. Walking past your men, their fearful gazes remind them of the consequences of crossing you." />
+    <string id="Duel_Event_Choice_4C" text="You agree to his challenge, but as he turns to depart, you seize a sword and cut him down swiftly. Caught in a frenzy, you repeatedly strike, each blow more forceful than the last. Only when two of your men restrain you do you cease. The scene is a brutal array of blood, organs, and dismembered parts. You instruct your men to dispose of the gruesome remains in the woods, effectively concealing the evidence. As you go to wash off the blood, the evident fear in the eyes of your men serves as a stark warning to them all." />
+    <string id="Duel_Event_Choice_4D" text="Upon his acceptance, you quickly seize a sword as he turns away. In a single, decisive strike, you fell him. Overwhelmed, you continue striking mercilessly. It's only when two of your men restrain you that the onslaught ends. What's left is a grotesque sight of blood and scattered remains. You order the body's removal to the nearby woods for wildlife to take care of. Walking by your men, their fearful looks reinforce the harsh lesson of what defiance leads to." />
+    <string id="Duel_Event_Choice_4E" text="In response to his challenge, as he pivots to leave, you abruptly grab a sword and violently strike him down. Your blows are relentless, turning him into an unrecognizable mass. Finally restrained by your men, the brutal scene left behind is chilling. You command the cleanup and disposal of the body in the forest, letting nature remove any trace. The fear in your men's eyes as you pass by serves as a grim reminder of the severity of challenging your authority." />
+
+    <string id="Duel_Event_Msg_1A" text="{heroName} declined the duel and instead taught the challenger a thing or two." />
+    <string id="Duel_Event_Msg_1B" text="{heroName} refused to duel, opting to impart wisdom to the challenger instead." />
+    <string id="Duel_Event_Msg_1C" text="{heroName} chose not to fight, but gave the challenger valuable lessons." />
+    <string id="Duel_Event_Msg_1D" text="{heroName} turned down the duel and provided the challenger with advice." />
+    <string id="Duel_Event_Msg_1E" text="{heroName} skipped the duel, taking the opportunity to educate the challenger." />
+
+    <string id="Duel_Event_Msg_2A" text="{heroName} accepted the challenge. He humiliated the challenger." />
+    <string id="Duel_Event_Msg_2B" text="{heroName} took up the challenge and thoroughly embarrassed the challenger." />
+    <string id="Duel_Event_Msg_2C" text="{heroName} agreed to the duel and decisively outclassed the challenger." />
+    <string id="Duel_Event_Msg_2D" text="{heroName} accepted the duel, showcasing his superiority over the challenger." />
+    <string id="Duel_Event_Msg_2E" text="{heroName} faced the challenger in a duel, leaving him utterly humiliated." />
+
+    <string id="Duel_Event_Msg_3A" text="{heroName} easily killed the challenger." />
+    <string id="Duel_Event_Msg_3B" text="{heroName} swiftly defeated and killed the challenger." />
+    <string id="Duel_Event_Msg_3C" text="{heroName} quickly dispatched the challenger with ease." />
+    <string id="Duel_Event_Msg_3D" text="{heroName} effortlessly eliminated the challenger." />
+    <string id="Duel_Event_Msg_3E" text="{heroName} made quick work of the challenger, ending his life." />
+
+    <string id="Duel_Event_Msg_4A" text="{heroName} completely lost it when he was challenged to a duel." />
+    <string id="Duel_Event_Msg_4B" text="{heroName} utterly lost composure upon being challenged to a duel." />
+    <string id="Duel_Event_Msg_4C" text="{heroName} became unhinged at the challenge for a duel." />
+    <string id="Duel_Event_Msg_4D" text="{heroName} reacted wildly to the duel challenge, losing all control." />
+    <string id="Duel_Event_Msg_4E" text="{heroName} spiraled out of control when faced with the duel challenge." />
+
+
+
     <!--AheadOfTime Event-->
     <string id="AheadOfTime_Title" text="Ahead of Time!" />
     <string id="AheadOfTimeEvent_Text" text="You receive word that {settlement} has completed its current project earlier than expected." />
