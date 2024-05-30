@@ -149,14 +149,14 @@
     <string id="BirthdayParty_Event_Option_1_Hover" text="Ce n'est pas tous les jours que l'on fête ses {birthdayAge} ans!" />
     <string id="BirthdayParty_Event_Option_2" text="Donnez à la fille un peu d'or" />
     <string id="BirthdayParty_Event_Option_2_Hover" text="Vous n'avez pas le temps de rester mais vous pouvez être gentil, n'est-ce pas?" />
-    <string id="BirthdayParty_Event_Option_3" text="[Roguerie] Pillez la fête" />
+    <string id="BirthdayParty_Event_Option_3" text="[Roublardise] Pillez la fête" />
     <string id="BirthdayParty_Event_Option_3_Hover" text="Amusez-vous.\n{rogueryAppendedText}" />
     <string id="BirthdayParty_Event_Option_4" text="Continuez votre chemin" />
     <string id="BirthdayParty_Event_Option_4_Hover" text="Vous n'avez pas le temps" />
 
     <!--Vérification des Compétences-->
     <string id="BirthdayParty_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="BirthdayParty_Roguery_Appended_Text" text="[Roguerie - niveau {minRogueryLevel}]" />
+    <string id="BirthdayParty_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <!--Fête d'Anniversaire - Bouton d'Événement-->
     <string id="BirthdayParty_Event_Button_Text" text="D'accord" />
@@ -237,11 +237,11 @@
     <string id="BeggarBegging_Event_Option_1_Hover" text="Sale mendiant!" />
     <string id="BeggarBegging_Event_Option_2" text="Lui donner 5 pièces d'or" />
     <string id="BeggarBegging_Event_Option_2_Hover" text="C'est quelque chose." />
-    <string id="BeggarBegging_Event_Option_3" text="[Intendant] Lui donner 100 pièces d'or" />
+    <string id="BeggarBegging_Event_Option_3" text="[Intendance] Lui donner 100 pièces d'or" />
     <string id="BeggarBegging_Event_Option_3_Hover" text="Vous pouvez vous le permettre.\n{stewardAppendedText}" />
-    <string id="BeggarBegging_Event_Option_4" text="[Intendant] Lui offrir un repas chaud" />
+    <string id="BeggarBegging_Event_Option_4" text="[Intendance] Lui offrir un repas chaud" />
     <string id="BeggarBegging_Event_Option_4_Hover" text="L'emmener à la taverne.\n{stewardAppendedText}" />
-    <string id="BeggarBegging_Event_Option_5" text="[Roguerie] Le tuer" />
+    <string id="BeggarBegging_Event_Option_5" text="[Roublardise] Le tuer" />
     <string id="BeggarBegging_Event_Option_5_Hover" text="Vous détestez vraiment les mendiants!\n{rogueryAppendedText}" />
 
     <!--Mendiant - Contenu Dynamique -->
@@ -253,8 +253,8 @@
 
     <!--Mendiant - Vérification des Compétences-->
     <string id="BeggarBegging_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="BeggarBegging_Steward_Appended_Text" text="[Intendant - niveau {minStewardLevel}]" />
-    <string id="BeggarBegging_Roguery_Appended_Text" text="[Roguerie - niveau {minRogueryLevel}]" />
+    <string id="BeggarBegging_Steward_Appended_Text" text="[Intendance - niveau {minStewardLevel}]" />
+    <string id="BeggarBegging_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <!--Mendiant - Bouton d'Événement-->
     <string id="BeggarBegging_Event_Button_Text_1" text="Choisir" />
@@ -365,7 +365,7 @@
 
     <!--Soldat Tombé - Vérification des Compétences-->
     <string id="FallenSoldier_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="FallenSoldier_Roguery_Appended_Text" text="[Roguerie - niveau {minRogueryLevel}]" />
+    <string id="FallenSoldier_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <!--Soldat Tombé - Choix d'Événement-->
     <string id="FallenSoldier_Event_Option_1" text="Leur offrir une compensation" />
@@ -705,12 +705,12 @@
     <string id="RunawaySon_Event_Option_2_Hover" text="Vous n'avez vraiment pas le temps de lui servir de baby-sitter" />
     <string id="RunawaySon_Event_Option_3" text="Le renvoyer" />
     <string id="RunawaySon_Event_Option_3_Hover" text="Il doit partir" />
-    <string id="RunawaySon_Event_Option_4" text="[Roguerie] Le tuer" />
+    <string id="RunawaySon_Event_Option_4" text="[Roublardise] Le tuer" />
     <string id="RunawaySon_Event_Option_4_Hover" text="C'est un monde cruel.\n{rogueryAppendedText}" />
 
     <!--Vérification des Compétences-->
     <string id="RunawaySon_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="RunawaySon_Roguery_Appended_Text" text="[Roguerie - niveau {minRogueryLevel}]" />
+    <string id="RunawaySon_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <!--Fils Fugueur - Boutons d'Événement-->
     <string id="RunawaySon_Event_Button_Text_1" text="D'accord" />
@@ -896,7 +896,7 @@
 
     <!--Vérification des Compétences-->
     <string id="UnexpectedWedding_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="UnexpectedWedding_Roguery_Appended_Text" text="[Roguerie - niveau {minRogueryLevel}]" />
+    <string id="UnexpectedWedding_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <!--Mariage Inattendu - Boutons d'Événement-->
     <string id="UnexpectedWedding_Event_Button_Text_1" text="D'accord" />
@@ -937,15 +937,15 @@
     <string id="ViolatedGirl_Event_Option_2_Hover" text="Tout le monde a un prix." />
     <string id="ViolatedGirl_Event_Option_3" text="Lui dire de partir" />
     <string id="ViolatedGirl_Event_Option_3_Hover" text="Pars... MAINTENANT !" />
-    <string id="ViolatedGirl_Event_Option_4" text="[Roguerie] La tuer" />
+    <string id="ViolatedGirl_Event_Option_4" text="[Roublardise] La tuer" />
     <string id="ViolatedGirl_Event_Option_4_Hover" text="Elle est trop dangereuse pour rester en vie.\n{rogueryAppendedText}" />
-    <string id="ViolatedGirl_Event_Option_5" text="[Roguerie] La violer vous-même" />
+    <string id="ViolatedGirl_Event_Option_5" text="[Roublardise] La violer vous-même" />
     <string id="ViolatedGirl_Event_Option_5_Hover" text="Lui apprendre à se taire la prochaine fois.\n{rogueryAppendedText}" />
 
     <!--Fille Violée - Vérifications des Compétences-->
     <string id="ViolatedGirl_Skill_Check_Disable_Appended_Text" text="**Les vérifications des compétences sont désactivées**" />
-    <string id="ViolatedGirl_Roguery_Appended_Text_1" text="[Roguerie - niveau {minRogueryLevel}]" />
-    <string id="ViolatedGirl_Roguery_Appended_Text_2" text="[Roguerie - niveau 225]" />
+    <string id="ViolatedGirl_Roguery_Appended_Text_1" text="[Roublardise - niveau {minRogueryLevel}]" />
+    <string id="ViolatedGirl_Roguery_Appended_Text_2" text="[Roublardise - niveau 225]" />
 
 
     <!--Fille Violée - Boutons d'Événement-->
@@ -1032,7 +1032,7 @@
 
     <string id="FleeingFate_Skill_Check_Disable_Appended_Text" text="**Les tests de compétence sont désactivés**" />
     <string id="FleeingFate_Roguery_Appended_Text" text="[Intendance - niveau {minStewardLevel}]" />
-    <string id="FleeingFate_Roguery_Appended_Text" text="[Banditisme - niveau {minRogueryLevel}]" />
+    <string id="FleeingFate_Roguery_Appended_Text" text="[Roublardise - niveau {minRogueryLevel}]" />
 
     <string id="FleeingFate_Event_Option_1" text="L'aider" />
     <string id="FleeingFate_Event_Option_1_Hover" text="Essayez de l'aider à quitter la ville." />
@@ -1042,9 +1042,9 @@
     <string id="FleeingFate_Event_Option_3_Hover" text="Essayez de la faire choisir par elle-même." />
     <string id="FleeingFate_Event_Option_4" text="[Intendance] Négocier" />
     <string id="FleeingFate_Event_Option_4_Hover" text="Essayez de parler à sa famille.\n{stewardAppendedText}" />
-    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La battre" />
+    <string id="FleeingFate_Event_Option_5" text="[Roublardise] La battre" />
     <string id="FleeingFate_Event_Option_5_Hover" text="Assurez-vous qu'elle comprenne le message.\n{rogueryAppendedText}" />
-    <string id="FleeingFate_Event_Option_5" text="[Banditisme] La tuer" />
+    <string id="FleeingFate_Event_Option_5" text="[Roublardise] La tuer" />
     <string id="FleeingFate_Event_Option_5_Hover" text="Un problème de moins.\n{rogueryAppendedText}" />
 
     <string id="FleeingFate_Event_Button_Text_1" text="Choisir" />
@@ -1236,6 +1236,95 @@
     <!--Vieilles Ruines - Messages de Journal-->
     <string id="OldRuins_Event_Msg_1" text="{heroName} a perdu {killedMen} hommes dans l'effondrement d'une structure." />
     <string id="OldRuins_Event_Msg_2" text="{heroName} a reçu {goldForYou} pièces d'or après avoir partagé {goldFound} pièces d'or avec {men} hommes." />
+
+
+
+    <!--
+    ******************************************************************************
+    *                                                                            *
+    *                             Événement du duel                              *
+    *                                                                            *
+    ******************************************************************************
+    -->
+
+    <string id="Duel_Skill_Check_Disable_Appended_Text" text="**Skill checks are disabled**" />
+    <string id="Duel_Roguery_Appended_Text" text="[Roublardise - lvl {minRogueryLevel}]" />
+    <string id="Duel_TwoHanded_Appended_Text" text="[Maniement à deux mains - lvl {minTwoHandedLevel}]" />
+
+    <string id="Duel_Event_Option_1" text="Refuser son défi" />
+    <string id="Duel_Event_Option_1_Hover" text="Aucun intérêt à accepter." />
+    <string id="Duel_Event_Option_2" text="Accepter son défi" />
+    <string id="Duel_Event_Option_2_Hover" text="Lui donner une leçon." />
+    <string id="Duel_Event_Option_3" text="[Maniement à deux mains] Le tuer" />
+    <string id="Duel_Event_Option_3_Hover" text="Le tuer en combat.\n{twoHandedAppendedText}" />
+    <string id="Duel_Event_Option_4" text="[Roublardise] Le tromper" />
+    <string id="Duel_Event_Option_4_Hover" text="Le tuer en le trompant.\n{rogueryAppendedText}" />
+	
+    <string id="Duel_Event_Button_Text_1" text="Choisir" />
+    <string id="Duel_Event_Button_Text_2" text="Terminé" />
+
+    <string id="Duel_Title_A" text="Duel des Destins" />
+    <string id="Duel_Title_B" text="L'Appel du Challenger" />
+    <string id="Duel_Title_C" text="Clash d'Acier" />
+    <string id="Duel_Title_D" text="Le Gant du Duelliste" />
+    <string id="Duel_Title_E" text="Concours d'Honneur" />
+    <string id="Duel_Title_F" text="Face-à-Face de la Valeur" />
+    <string id="Duel_Title_G" text="L'Affrontement" />
+    <string id="Duel_Title_H" text="Confrontation" />
+
+    <string id="Duel_Event_Desc_A" text="Alors que votre groupe se repose près de {closestSettlement}, un jeune homme vous défie en duel. Inspiré par vos exploits célèbres dans les arènes de Calradia, il souhaite tester ses compétences. En l'observant, vous réalisez que son inexpérience en ferait une victoire facile. Ce moment pourrait lui servir de leçon, ou vous pourriez simplement refuser sa demande. Le choix vous appartient : accepter le duel et lui enseigner, ou refuser et partir. Quelle sera votre décision ?" />
+    <string id="Duel_Event_Desc_B" text="Près de {closestSettlement}, alors que votre groupe fait une pause, un jeune homme déterminé s'approche, cherchant à vous défier en duel. Il est motivé par des récits de vos batailles légendaires dans les arènes de Calradia. En l'évaluant, vous notez son manque de compétences, suggérant une victoire facile. Vous réfléchissez : devriez-vous utiliser ce duel comme un moment d'enseignement, ou rejeter son défi tout simplement ? La décision vous revient d'accepter le duel et de lui donner une leçon, ou de décliner son audacieux défi." />
+    <string id="Duel_Event_Desc_C" text="Votre groupe, faisant une pause près de {closestSettlement}, est approché par un jeune homme ambitieux qui vous demande un duel. Désireux de tester son courage contre vous, il est encouragé par vos victoires célèbres dans les arènes de Calradia. Vous évaluez rapidement qu'il n'est pas à la hauteur. Maintenant, vous devez décider : saisir cette chance pour lui enseigner le combat, ou rejeter son défi sans hésitation. Allez-vous accepter et lui donner une leçon précieuse, ou refuser et lui épargner la défaite ?" />
+    <string id="Duel_Event_Desc_D" text="Alors que vous êtes campé près de {closestSettlement}, un jeune challenger émerge, déterminé à vous défier en duel. Inspiré par vos triomphes célèbres dans les arènes de Calradia, il avance audacieusement. Une évaluation rapide révèle ses compétences inférieures, promettant un duel facile. Vous êtes maintenant face à un choix : accepter son duel et lui fournir une leçon pratique, ou refuser et le laisser sans épreuve. Allez-vous relever son défi pour l'instruire, ou refuser de vous engager et passer à autre chose ?" />
+    <string id="Duel_Event_Desc_E" text="Dans les environs de {closestSettlement}, pendant une brève pause, un jeune homme vous confronte, désireux d'un duel. Son défi est motivé par vos succès bien connus dans les arènes de Calradia. Vous pouvez dire d'un coup d'œil qu'il est inexpérimenté, suggérant une victoire facile pour vous. La décision vous appartient : accepter son duel comme une occasion d'enseigner, ou refuser et éviter la confrontation. Allez-vous choisir de dueller et d'éduquer, ou de rejeter sa demande et de vous abstenir ?" />
+
+    <string id="Duel_Event_Choice_1A" text="Vous informez le jeune homme que vous déclinez son défi, certain de votre victoire facile. Saisissant l'occasion, vous lui offrez quelques conseils. Vous lui conseillez de ne pas défier imprudemment des adversaires bien plus qualifiés et lui suggérez que les compétences réelles de combat se développent dans l'entraînement d'une garnison de la ville. Vous lui recommandez de rejoindre l'une d'elles pour apprendre correctement. Vous vous séparez de manière amicale, avec un sentiment de respect mutuel." />
+    <string id="Duel_Event_Choice_1B" text="Vous refusez doucement le défi, expliquant votre triomphe certain. Saisissant l'occasion de le mentorer, vous lui conseillez sur les dangers de faire face à des combattants bien plus supérieurs. Vous suggérez un chemin plus prudent : rejoindre une garnison de la ville pour un entraînement de combat formel. Vos conseils sont bien reçus, et vous vous séparez en bons termes, lui laissant des conseils réfléchis pour ses futures entreprises." />
+    <string id="Duel_Event_Choice_1C" text="Vous refusez doucement le défi, expliquant votre triomphe certain. Saisissant l'occasion de le mentorer, vous lui conseillez sur les dangers de faire face à des combattants bien plus supérieurs. Vous suggérez un chemin plus prudent : rejoindre une garnison de la ville pour un entraînement de combat formel. Vos conseils sont bien reçus, et vous vous séparez en bons termes, lui laissant des conseils réfléchis pour ses futures entreprises." />
+    <string id="Duel_Event_Choice_1D" text="Vous refusez son défi, certain de votre avantage dans un tel duel. Vous prenez ce moment pour offrir des conseils, le conseillant sur les périls de défier ceux qui ont une plus grande compétence. Lui conseillant de rejoindre une garnison de la ville pour un entraînement discipliné, vous vous séparez de manière amicale, avec lui hochant la tête en signe de compréhension et de gratitude pour vos sages paroles." />
+    <string id="Duel_Event_Choice_1E" text="Poliment, vous rejetez le duel, confiant dans vos compétences supérieures. Vous saisissez l'occasion de le mentorer, avertissant de la folie de défier des combattants hautement qualifiés. Suggérant que rejoindre une garnison de la ville serait une expérience d'apprentissage précieuse, vous vous séparez en bons termes. Il part, considérant vos conseils, reconnaissant pour les perspectives que vous avez partagées." />
+
+    <string id="Duel_Event_Choice_2A" text="Vous acceptez son défi. Sortant de votre tente en armure complète, vous voyez la peur dans les yeux de votre adversaire. Vos hommes forment un cercle pour le duel. Il est en armure légère. Vous faites une pause et lui apportez une armure complète. En difficulté dans cet équipement lourd, il est clairement inexpérimenté. Au début du duel, il s'agenouille, suppliant le pardon. Vous aviez anticipé cela, donc vous utilisez l'occasion pour lui donner une leçon sévère. Après quelques minutes, il s'agenouille à nouveau, ayant appris sa leçon. Vous l'aidez à se débarrasser de l'armure, lui offrant des conseils sur le danger de défier imprudemment des adversaires qualifiés. Vous suggérez qu'il s'entraîne avec une garnison de la ville. La séparation est amicale." />
+    <string id="Duel_Event_Choice_2B" text="Acceptant le duel, vous revêtez une armure complète, remarquant l'expression intimidée de votre adversaire. Vos hommes forment un cercle. Sa tenue est simplement une armure légère. Vous arrêtez le duel, arrangent pour qu'il revête une armure complète. Inexpérimenté avec l'armure lourde, il lutte. Quand le duel commence, il implore immédiatement la clémence. En vous y attendant, vous décidez de lui donner une frayeur non nocive. Il s'agenouille bientôt à nouveau, leçon apprise. L'aidant à retirer l'armure, vous lui conseillez d'éviter les duels avec des combattants plus expérimentés et suggérez de s'entraîner dans une garnison de la ville. Vous vous séparez en bons termes." />
+    <string id="Duel_Event_Choice_2C" text="Vous acceptez le défi, sortant en armure complète, ce qui visiblement perturbe votre adversaire. Vos hommes forment un cercle pour le duel, et vous remarquez son armure légère. Vous interrompez le duel pour l'équiper d'une armure complète. Il est clairement peu habitué à une telle armure lourde. Dès que le duel commence, il tombe, suppliant la clémence. Vous utilisez ce moment pour l'intimider légèrement, comme prévu. Il s'agenouille à nouveau, ayant absorbé la leçon. Vous l'aidez à retirer son armure et lui donnez des conseils sur le fait de ne pas défier ceux qui sont plus qualifiés. Recommandant l'entraînement dans une garnison de la ville, vous vous séparez en bons termes." />
+    <string id="Duel_Event_Choice_2D" text="Acceptant le duel, vous apparaissez en armure complète, causant une peur discernable chez votre challenger. Vos hommes forment un ring. Il porte seulement une armure légère. Vous appelez une pause pour lui fournir une armure complète. Son manque de familiarité avec l'armure lourde est évident. Quand le duel commence, il s'agenouille rapidement et demande grâce. Anticipant cela, vous l'effrayez sans mal. Après un court moment, il s'agenouille à nouveau, leçon apprise. Vous l'aidez à retirer l'armure, lui conseillant sur les risques de défier des combattants qualifiés, et suggérez de rejoindre une garnison de la ville pour l'entraînement. La rencontre se termine de manière amicale." />
+    <string id="Duel_Event_Choice_2E" text="Vous décidez d'accepter le duel, enfilant votre armure complète, ce qui inspire la peur chez votre jeune challenger. Vos hommes installent un ring de duel. Il porte une armure légère. Vous interrompez pour l'équiper d'une armure complète. Il est clair qu'il n'a jamais porté une armure si lourde. Lorsque vous engagez, il s'agenouille, implorant le pardon. Vous aviez prévu ce résultat et le secouez doucement pour lui donner une leçon. Il s'agenouille à nouveau, ayant appris. Vous l'aidez à retirer l'armure et lui conseillez d'éviter de défier des individus plus expérimentés, suggérant qu'il s'entraîne avec une garnison. Vous vous séparez en termes relativement amicaux." />
+
+    <string id="Duel_Event_Choice_3A" text="Vous acceptez son défi. Émergeant en armure complète, la peur de votre adversaire est évidente. Un cercle est formé par vos hommes. Il porte une armure légère. Le duel commence ; vous avancez rapidement, et il tente d'esquiver. Cependant, il est trop lent, et d'un coup rapide, vous le décapitez. Sa tête tombe à proximité, et vos hommes acclament. Vous organisez un bûcher funéraire de guerrier pour lui, respectant son courage malgré sa folie. Un courrier est envoyé à {closestSettlement} pour signaler la mort résultant du duel." />
+    <string id="Duel_Event_Choice_3B" text="Acceptant le défi, vous revêtez une armure complète, voyant la peur dans les yeux de votre adversaire. Vos hommes vous encerclent tous deux. Il est légèrement armuré. Au début du duel, vous chargez. Il tente d'éviter, mais vous êtes trop rapide. Un coup net, et sa tête est coupée, volant loin. Des acclamations éclatent de vos hommes. Vous commandez un bûcher pour l'honorer en tant que guerrier, reconnaissant son courage. Vous envoyez un messager à {closestSettlement} pour informer de sa mort due au duel." />
+    <string id="Duel_Event_Choice_3C" text="Vous acceptez le duel, vêtu d'une lourde armure, intimidant votre adversaire. Un grand cercle est formé par vos hommes. Il porte une armure légère. Le combat commence ; vous avancez agressivement. Sa tentative d'esquive échoue, et vous le décapitez rapidement, sa tête roulant au loin. Les acclamations de vos hommes remplissent l'air. Vous ordonnez la construction d'un bûcher, honorant son courage. Malgré son erreur en vous défiant, vous respectez son engagement. Un courrier est envoyé à {closestSettlement} pour signaler le résultat fatal du duel." />
+    <string id="Duel_Event_Choice_3D" text="Acceptant le duel, vous apparaissez en armure imposante, inspirant la peur chez lui. Vos hommes forment une arène de combat. Il est sous-armuré en cuir. Dès le début du duel, vous approchez rapidement. Il tente une esquive, mais est trop lent. En un seul mouvement, vous le décapitez. Sa tête atterrit à distance, et vos hommes acclament votre victoire. Un bûcher est préparé pour lui, geste de respect pour un guerrier. Malgré sa folie, vous honorez son courage. La nouvelle de sa mort est envoyée à {closestSettlement} via un courrier." />
+    <string id="Duel_Event_Choice_3E" text="Vous relevez son défi de duel, vêtu de votre armure complète. Votre adversaire tremble visiblement. Un cercle est installé par vos soldats. Il porte une simple armure de cuir. Le combat commence, et vous avancez rapidement. Sa tentative d'esquive échoue face à votre vitesse, et vous exécutez une décapitation nette. Sa tête atterrit au loin alors que vos hommes acclament triomphalement. Organisant un bûcher funéraire de guerrier, vous respectez son esprit audacieux. Un courrier se rend à {closestSettlement} pour relayer la nouvelle de sa mort due au duel." />
+
+    <string id="Duel_Event_Choice_4A" text="Vous acceptez son défi. Alors qu'il se retourne pour partir, vous attrapez rapidement une épée et le frappez d'un coup rapide. Vous frappez à plusieurs reprises, vous perdant dans le moment. Finalement, vos hommes vous tirent en arrière. Le challenger est réduit à un mélange macabre de sang et de restes, et vous êtes trempé de sang. Vous ordonnez à vos hommes de disposer des restes dans les bois, laissant la nature effacer les preuves. En passant devant vos hommes pour vous nettoyer, leurs yeux reflètent la peur. Cette démonstration brutale assure qu'ils resteront en ligne, ne voulant pas un sort similaire." />
+    <string id="Duel_Event_Choice_4B" text="Acceptant le défi, vous attrapez rapidement une épée à proximité alors qu'il tourne le dos. D'un mouvement rapide et létal, vous l'abattez. Vous continuez à frapper, chaque coup alimenté par l'intensité. Deux de vos hommes interviennent finalement, vous tirant en arrière de la scène de carnage. Ce qui reste du challenger est une vue horrifique de sang et de chair déchirée. Vous commandez à vos hommes de cacher le corps dans la forêt, permettant à la faune d'obscurcir toute trace. En passant devant vos hommes, leurs regards effrayés leur rappellent les conséquences de vous contrarier." />
+    <string id="Duel_Event_Choice_4C" text="Vous acceptez son défi, mais alors qu'il se retourne pour partir, vous saisissez une épée et le coupez rapidement. Pris dans une frénésie, vous frappez à plusieurs reprises, chaque coup plus fort que le précédent. Ce n'est que lorsque deux de vos hommes vous retiennent que vous vous arrêtez. La scène est une série brutale de sang, d'organes et de parties démembrées. Vous ordonnez à vos hommes de disposer des restes horribles dans les bois, cachant efficacement les preuves. En vous lavant du sang, la peur évidente dans les yeux de vos hommes sert de sévère avertissement à tous." />
+    <string id="Duel_Event_Choice_4D" text="À son acceptation, vous saisissez rapidement une épée alors qu'il se détourne. D'un seul coup décisif, vous le faites tomber. Submergé, vous continuez à frapper sans pitié. Ce n'est que lorsque deux de vos hommes vous retiennent que l'assaut se termine. Ce qui reste est une vue grotesque de sang et de restes éparpillés. Vous ordonnez le retrait du corps dans les bois voisins pour que la faune s'en occupe. En passant devant vos hommes, leurs regards effrayés renforcent la dure leçon de ce que mène à la défiance." />
+    <string id="Duel_Event_Choice_4E" text="En réponse à son défi, alors qu'il pivote pour partir, vous saisissez brusquement une épée et le frappez violemment. Vos coups sont implacables, le transformant en une masse méconnaissable. Finalement retenu par vos hommes, la scène brutale laissée derrière est glaçante. Vous commandez le nettoyage et la disposition du corps dans la forêt, laissant la nature enlever toute trace. La peur dans les yeux de vos hommes en passant devant sert de rappel sévère de la gravité à défier votre autorité." />
+
+    <string id="Duel_Event_Msg_1A" text="{heroName} a refusé le duel et a plutôt donné une leçon au challenger." />
+	<string id="Duel_Event_Msg_1B" text="{heroName} a refusé de dueller, préférant donner des conseils au challenger." />
+	<string id="Duel_Event_Msg_1C" text="{heroName} a choisi de ne pas se battre, mais a donné des leçons précieuses au challenger." />
+	<string id="Duel_Event_Msg_1D" text="{heroName} a refusé le duel et a offert des conseils au challenger." />
+	<string id="Duel_Event_Msg_1E" text="{heroName} a évité le duel, saisissant l'occasion pour éduquer le challenger." />
+
+	<string id="Duel_Event_Msg_2A" text="{heroName} a accepté le défi. Il a humilié le challenger." />
+	<string id="Duel_Event_Msg_2B" text="{heroName} a relevé le défi et a complètement embarrassé le challenger." />
+	<string id="Duel_Event_Msg_2C" text="{heroName} a accepté le duel et a surclassé le challenger de manière décisive." />
+	<string id="Duel_Event_Msg_2D" text="{heroName} a accepté le duel, montrant sa supériorité sur le challenger." />
+	<string id="Duel_Event_Msg_2E" text="{heroName} a affronté le challenger en duel, le laissant totalement humilié." />
+
+	<string id="Duel_Event_Msg_3A" text="{heroName} a facilement tué le challenger." />
+	<string id="Duel_Event_Msg_3B" text="{heroName} a rapidement vaincu et tué le challenger." />
+	<string id="Duel_Event_Msg_3C" text="{heroName} a rapidement éliminé le challenger avec aisance." />
+	<string id="Duel_Event_Msg_3D" text="{heroName} a éliminé le challenger sans effort." />
+	<string id="Duel_Event_Msg_3E" text="{heroName} a rapidement mis fin à la vie du challenger." />
+
+	<string id="Duel_Event_Msg_4A" text="{heroName} a complètement perdu le contrôle lorsqu'il a été défié en duel." />
+	<string id="Duel_Event_Msg_4B" text="{heroName} a totalement perdu son sang-froid en étant défié en duel." />
+	<string id="Duel_Event_Msg_4C" text="{heroName} est devenu incontrôlable face au défi du duel." />
+	<string id="Duel_Event_Msg_4D" text="{heroName} a réagi de manière sauvage au défi du duel, perdant tout contrôle." />
+	<string id="Duel_Event_Msg_4E" text="{heroName} a perdu toute maîtrise lorsqu'il a été confronté au défi du duel." />
 
 
 
@@ -1698,7 +1787,7 @@
 
     <!--Army Invite-->
     <string id="ArmyInvite_Title" text="Invitation à l'Armée" />
-    <string id="ArmyInvite_Event_Text" text="Un messager de {ArmyLeader} est arrivé, invitant {player} à rejoindre l'armée de {gender} située près de {settlement}." />
+    <string id="ArmyInvite_Event_Text" text="Un messager de {ArmyLeader} est arrivé, invitant {player} à rejoindre une armée située près de {settlement}." />
     <string id="ArmyInvite_Event_Button_Text" text="Terminé" />
 
 
@@ -1706,14 +1795,14 @@
     <string id="Travellers_Title" text="Voyageurs" />
     <string id="Travellers_Skill_Check_Disable_Appended_Text" text="**Les vérifications de compétences sont désactivées**" />
     <string id="Travellers_Engineering_Appended_Text" text="[Ingénierie - niveau {minEngineeringLevel}]" />
-    <string id="Travellers_Roguery_Appended_Text" text="[Ruse - niveau {minCharmLevel}]" />
-    <string id="Travellers_Steward_Appended_Text" text="[Intendant - niveau {minStewardLevel}]" />
+    <string id="Travellers_Roguery_Appended_Text" text="[Roublardise - niveau {minCharmLevel}]" />
+    <string id="Travellers_Steward_Appended_Text" text="[Intendance - niveau {minStewardLevel}]" />
     <string id="Travellers_Event_Desc" text="Votre groupe se déplace non loin de {closestSettlement} lorsque vous rencontrez une famille {familyDemonym} avec une charrette cassée. La roue semble s'être détachée et a roulé dans une petite rivière non loin de vous. La famille demande si vous pouvez les aider. Ils expliquent qu'ils fuient des bandits qui les faisaient chanter pour de l'argent et ont tenté de kidnapper leurs deux filles à plusieurs reprises. Ils ont apporté tout ce qu'ils possèdent avec eux dans l'espoir de commencer une nouvelle vie ailleurs. Comment procédez-vous?" />
     <string id="Travellers_Event_Option_1" text="[Ingénierie] Offrir de réparer la charrette" />
     <string id="Travellers_Event_Option_1_Hover" text="Vous devriez être capable de la réparer. {engineeringAppendedText}" />
-    <string id="Travellers_Event_Option_2" text="[Ruse] Les piller!" />
+    <string id="Travellers_Event_Option_2" text="[Roublardise] Les piller!" />
     <string id="Travellers_Event_Option_2_Hover" text="Prenez tout ce qui a de la valeur {rogueryAppendedText}" />
-    <string id="Travellers_Event_Option_3" text="[Intendant] Leur offrir le dîner" />
+    <string id="Travellers_Event_Option_3" text="[Intendance] Leur offrir le dîner" />
     <string id="Travellers_Event_Option_3_Hover" text="Pendant que vos hommes chargent tous leurs biens dans une charrette de rechange que vous avez {stewardAppendedText}" />
     <string id="Travellers_Event_Option_4" text="Leur offrir des directions" />
     <string id="Travellers_Event_Option_4_Hover" text="Leur donner des directions vers la colonie la plus proche" />
