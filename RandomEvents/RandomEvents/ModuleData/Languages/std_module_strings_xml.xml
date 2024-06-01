@@ -1568,6 +1568,7 @@
     <string id="PrisonerRebellion_Event_Party_Label" text="Escaped prisoners (Random Event)" />
     <string id="PrisonerRebellion_Event_Button_Text" text="To arms!" />
     <string id="PrisonerRebellion_Hero_Dialogue" text="\n\nFortunately, you keep the important prisoners separate and they were unable to escape!" />
+    <string id="PrisonerRebellion_Event_Text" text="While your guards weren't looking the prisoners managed to break free. They'd rather die than stay in captivity another day! {heroDialogue}" />
 
 
 
