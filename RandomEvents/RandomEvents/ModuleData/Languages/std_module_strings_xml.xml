@@ -1375,6 +1375,10 @@
     <!--BetMoney - Choices-->
     <string id="BetMoneyEvent_Option_1" text="Gamble" />
     <string id="BetMoneyEvent_Option_2" text="Decline" />
+    <string id="BetMoney_Event_Option_1" text="Gamble" />
+    <string id="BetMoney_Event_Option_2" text="Decline" />
+    <string id="BetMoney_Event_Button_Text_1" text="Okay" />
+    <string id="BetMoney_Event_Button_Text_2" text="Done" />
 
     <!--BetMoney - Outcomes-->
     <string id="BetMoney_Event_Outcome_Text_1" text="Well, I'm never going to make that money back... Your companion says with a heavy sigh as your pocket your 'hard earned' gold." />
