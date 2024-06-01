@@ -1375,6 +1375,10 @@
     <!--BetMoney - Choix-->
     <string id="BetMoneyEvent_Option_1" text="Parier" />
     <string id="BetMoneyEvent_Option_2" text="Refuser" />
+    <string id="BetMoney_Event_Option_1" text="Parier" />
+    <string id="BetMoney_Event_Option_2" text="Refuser" />
+    <string id="BetMoney_Event_Button_Text_1" text="D'accord" />
+    <string id="BetMoney_Event_Button_Text_2" text="Terminer" />
 
     <!--BetMoney - Résultats-->
     <string id="BetMoney_Event_Outcome_Text_1" text="Eh bien, je ne récupérerai jamais cet argent... Votre compagnon dit avec un lourd soupir alors que vous empochez votre or 'durement gagné'." />
@@ -1499,7 +1503,7 @@
     <string id="Momentum_Title" text="Élan" />
     <string id="Momentum_OnFoot" text="à pied" />
     <string id="Momentum_Riding" text="à cheval" />
-    <string id="Momentum_Event_Text" text="Après avoir passé tant de temps {dialogue}, vous gagnez une nouvelle énergie !" />
+    <string id="Momentum_Event_Text" text="Après avoir passé tant de temps {dialogue}, vous acquérez un second souffle !" />
     <string id="Momentum_Event_Button_Text" text="Terminé" />
 
 
