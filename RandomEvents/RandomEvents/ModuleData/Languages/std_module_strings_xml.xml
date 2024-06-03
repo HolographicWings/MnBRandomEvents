@@ -1832,6 +1832,7 @@
     <string id="Feast_Title" text="Feast Invitation" />
     <string id="Feast_Event_Description1" text="While in {settlement} you are approached by an envoy from {title} {targetLord} requesting your presence for a feast." />
     <string id="Feast_Event_Button_Text1" text="Choose" />
+    <string id="Feast_Event_Button_Text2" text="Done" />
     <string id="Feast_Event_Option_1" text="Accept" />
     <string id="Feast_Event_Option_1_Hover" text="A feast sounds nice" />
     <string id="Feast_Event_Option_2" text="Decline" />
