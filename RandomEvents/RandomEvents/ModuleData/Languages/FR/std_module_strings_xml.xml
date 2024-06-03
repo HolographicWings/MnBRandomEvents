@@ -1832,6 +1832,7 @@
     <string id="Feast_Title" text="Invitation à un Festin" />
     <string id="Feast_Event_Description1" text="Pendant votre séjour à {settlement}, un envoyé de {title} {targetLord} vous approche pour vous demander votre présence à un festin." />
     <string id="Feast_Event_Button_Text1" text="Choisir" />
+    <string id="Feast_Event_Button_Text2" text="Terminer" />
     <string id="Feast_Event_Option_1" text="Accepter" />
     <string id="Feast_Event_Option_1_Hover" text="Un festin semble agréable" />
     <string id="Feast_Event_Option_2" text="Refuser" />
